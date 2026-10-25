@@ -1,0 +1,2529 @@
+feature,group,importance
+lag_168_demand_kw,Historical electrical measurements,0.017736862641252422
+lag_168_reactive_power_kvar,Historical electrical measurements,0.0
+lag_168_voltage_v,Historical electrical measurements,0.0
+lag_168_current_a,Historical electrical measurements,0.0
+lag_168_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_168_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_168_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_168_hour_sin,Historical calendar,0.0
+lag_168_hour_cos,Historical calendar,0.4479833643495223
+lag_168_weekday_sin,Historical calendar,0.016079349247790302
+lag_168_weekday_cos,Historical calendar,0.0
+lag_168_year_sin,Historical calendar,0.012354969264067914
+lag_168_year_cos,Historical calendar,0.3295474395723854
+lag_168_is_weekend,Historical calendar,0.0
+lag_167_demand_kw,Historical electrical measurements,0.0
+lag_167_reactive_power_kvar,Historical electrical measurements,0.0
+lag_167_voltage_v,Historical electrical measurements,0.0
+lag_167_current_a,Historical electrical measurements,0.07919918810310773
+lag_167_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_167_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_167_sub_metering_3_wh_per_minute,Historical electrical measurements,0.05049635379005728
+lag_167_hour_sin,Historical calendar,0.0
+lag_167_hour_cos,Historical calendar,0.6460726466525403
+lag_167_weekday_sin,Historical calendar,0.044375420844921847
+lag_167_weekday_cos,Historical calendar,0.0
+lag_167_year_sin,Historical calendar,0.01376513737654689
+lag_167_year_cos,Historical calendar,0.0
+lag_167_is_weekend,Historical calendar,0.0
+lag_166_demand_kw,Historical electrical measurements,0.07206836535959066
+lag_166_reactive_power_kvar,Historical electrical measurements,0.0
+lag_166_voltage_v,Historical electrical measurements,0.0
+lag_166_current_a,Historical electrical measurements,0.03715534846224433
+lag_166_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_166_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_166_sub_metering_3_wh_per_minute,Historical electrical measurements,0.013451356014066707
+lag_166_hour_sin,Historical calendar,0.0
+lag_166_hour_cos,Historical calendar,0.060743601342952015
+lag_166_weekday_sin,Historical calendar,0.027338390598329633
+lag_166_weekday_cos,Historical calendar,0.0
+lag_166_year_sin,Historical calendar,0.0
+lag_166_year_cos,Historical calendar,0.043183246424027544
+lag_166_is_weekend,Historical calendar,0.020506778785682245
+lag_165_demand_kw,Historical electrical measurements,0.06854452947048985
+lag_165_reactive_power_kvar,Historical electrical measurements,0.0
+lag_165_voltage_v,Historical electrical measurements,0.0
+lag_165_current_a,Historical electrical measurements,0.039053350796466164
+lag_165_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_165_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_165_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_165_hour_sin,Historical calendar,0.064260826270365
+lag_165_hour_cos,Historical calendar,0.0
+lag_165_weekday_sin,Historical calendar,0.018324978926206822
+lag_165_weekday_cos,Historical calendar,0.0
+lag_165_year_sin,Historical calendar,0.0
+lag_165_year_cos,Historical calendar,0.0396956267819923
+lag_165_is_weekend,Historical calendar,0.0
+lag_164_demand_kw,Historical electrical measurements,0.0475342407117521
+lag_164_reactive_power_kvar,Historical electrical measurements,0.0
+lag_164_voltage_v,Historical electrical measurements,0.0142479514347848
+lag_164_current_a,Historical electrical measurements,0.04816108943545619
+lag_164_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_164_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_164_sub_metering_3_wh_per_minute,Historical electrical measurements,0.015789974834010404
+lag_164_hour_sin,Historical calendar,0.33310199242250565
+lag_164_hour_cos,Historical calendar,0.0
+lag_164_weekday_sin,Historical calendar,0.2994427421714329
+lag_164_weekday_cos,Historical calendar,0.0
+lag_164_year_sin,Historical calendar,0.0
+lag_164_year_cos,Historical calendar,0.23789854135000307
+lag_164_is_weekend,Historical calendar,0.0
+lag_163_demand_kw,Historical electrical measurements,0.07910222463030747
+lag_163_reactive_power_kvar,Historical electrical measurements,0.0
+lag_163_voltage_v,Historical electrical measurements,0.0
+lag_163_current_a,Historical electrical measurements,0.029019805028942174
+lag_163_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_163_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_163_sub_metering_3_wh_per_minute,Historical electrical measurements,0.027091307982205607
+lag_163_hour_sin,Historical calendar,0.0
+lag_163_hour_cos,Historical calendar,0.05262170310551469
+lag_163_weekday_sin,Historical calendar,0.23941461752951337
+lag_163_weekday_cos,Historical calendar,0.030383385838762562
+lag_163_year_sin,Historical calendar,0.0
+lag_163_year_cos,Historical calendar,0.3578412938091796
+lag_163_is_weekend,Historical calendar,0.0
+lag_162_demand_kw,Historical electrical measurements,0.031038224441605103
+lag_162_reactive_power_kvar,Historical electrical measurements,0.0
+lag_162_voltage_v,Historical electrical measurements,0.0
+lag_162_current_a,Historical electrical measurements,0.06230703483457438
+lag_162_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_162_sub_metering_2_wh_per_minute,Historical electrical measurements,0.014490874253887785
+lag_162_sub_metering_3_wh_per_minute,Historical electrical measurements,0.02534551022738387
+lag_162_hour_sin,Historical calendar,0.8383075538940205
+lag_162_hour_cos,Historical calendar,0.0
+lag_162_weekday_sin,Historical calendar,0.0
+lag_162_weekday_cos,Historical calendar,0.0
+lag_162_year_sin,Historical calendar,0.0
+lag_162_year_cos,Historical calendar,0.019514861007770053
+lag_162_is_weekend,Historical calendar,0.0
+lag_161_demand_kw,Historical electrical measurements,0.02810236179866338
+lag_161_reactive_power_kvar,Historical electrical measurements,0.0
+lag_161_voltage_v,Historical electrical measurements,0.0
+lag_161_current_a,Historical electrical measurements,0.06800488580738134
+lag_161_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_161_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_161_sub_metering_3_wh_per_minute,Historical electrical measurements,0.030662570859052142
+lag_161_hour_sin,Historical calendar,0.013661465317046975
+lag_161_hour_cos,Historical calendar,0.6043346016181894
+lag_161_weekday_sin,Historical calendar,0.26503336877096034
+lag_161_weekday_cos,Historical calendar,0.0
+lag_161_year_sin,Historical calendar,0.0
+lag_161_year_cos,Historical calendar,0.12505827967670988
+lag_161_is_weekend,Historical calendar,0.0
+lag_160_demand_kw,Historical electrical measurements,0.12229591997935242
+lag_160_reactive_power_kvar,Historical electrical measurements,0.0
+lag_160_voltage_v,Historical electrical measurements,0.0
+lag_160_current_a,Historical electrical measurements,0.007899626580125392
+lag_160_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_160_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_160_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_160_hour_sin,Historical calendar,0.0
+lag_160_hour_cos,Historical calendar,0.012294280268446225
+lag_160_weekday_sin,Historical calendar,0.0
+lag_160_weekday_cos,Historical calendar,0.030049675868595815
+lag_160_year_sin,Historical calendar,0.0
+lag_160_year_cos,Historical calendar,0.02449529252371022
+lag_160_is_weekend,Historical calendar,0.010904662777647829
+lag_159_demand_kw,Historical electrical measurements,0.0
+lag_159_reactive_power_kvar,Historical electrical measurements,0.0
+lag_159_voltage_v,Historical electrical measurements,0.013311666717732852
+lag_159_current_a,Historical electrical measurements,0.07962060274526624
+lag_159_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_159_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01309015475192519
+lag_159_sub_metering_3_wh_per_minute,Historical electrical measurements,0.010948810975771021
+lag_159_hour_sin,Historical calendar,0.8650967731529108
+lag_159_hour_cos,Historical calendar,0.20277101835548478
+lag_159_weekday_sin,Historical calendar,0.018012840426392666
+lag_159_weekday_cos,Historical calendar,0.0
+lag_159_year_sin,Historical calendar,0.010456907727157952
+lag_159_year_cos,Historical calendar,0.0
+lag_159_is_weekend,Historical calendar,0.0
+lag_158_demand_kw,Historical electrical measurements,0.02887241612512536
+lag_158_reactive_power_kvar,Historical electrical measurements,0.0
+lag_158_voltage_v,Historical electrical measurements,0.0
+lag_158_current_a,Historical electrical measurements,0.09291401183508807
+lag_158_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_158_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_158_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01259103218793502
+lag_158_hour_sin,Historical calendar,0.01956027776038096
+lag_158_hour_cos,Historical calendar,0.017253932903613985
+lag_158_weekday_sin,Historical calendar,0.0
+lag_158_weekday_cos,Historical calendar,0.0
+lag_158_year_sin,Historical calendar,0.0
+lag_158_year_cos,Historical calendar,0.0
+lag_158_is_weekend,Historical calendar,0.0
+lag_157_demand_kw,Historical electrical measurements,0.015015402500831963
+lag_157_reactive_power_kvar,Historical electrical measurements,0.0
+lag_157_voltage_v,Historical electrical measurements,0.0
+lag_157_current_a,Historical electrical measurements,0.054998706380318556
+lag_157_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_157_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01324936602049687
+lag_157_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_157_hour_sin,Historical calendar,0.0
+lag_157_hour_cos,Historical calendar,0.03971431630762968
+lag_157_weekday_sin,Historical calendar,0.43343297342245624
+lag_157_weekday_cos,Historical calendar,0.0
+lag_157_year_sin,Historical calendar,0.014663280638553494
+lag_157_year_cos,Historical calendar,0.0
+lag_157_is_weekend,Historical calendar,0.0
+lag_156_demand_kw,Historical electrical measurements,0.027713721843235593
+lag_156_reactive_power_kvar,Historical electrical measurements,0.0
+lag_156_voltage_v,Historical electrical measurements,0.0
+lag_156_current_a,Historical electrical measurements,0.12295325326270923
+lag_156_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_156_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01029710405468344
+lag_156_sub_metering_3_wh_per_minute,Historical electrical measurements,0.026782225333608328
+lag_156_hour_sin,Historical calendar,0.18062659178577709
+lag_156_hour_cos,Historical calendar,0.0
+lag_156_weekday_sin,Historical calendar,0.044996672099463515
+lag_156_weekday_cos,Historical calendar,0.0
+lag_156_year_sin,Historical calendar,0.0
+lag_156_year_cos,Historical calendar,0.007714616631257255
+lag_156_is_weekend,Historical calendar,0.0
+lag_155_demand_kw,Historical electrical measurements,0.10941216269088276
+lag_155_reactive_power_kvar,Historical electrical measurements,0.0
+lag_155_voltage_v,Historical electrical measurements,0.0
+lag_155_current_a,Historical electrical measurements,0.0
+lag_155_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_155_sub_metering_2_wh_per_minute,Historical electrical measurements,0.013791565588054345
+lag_155_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_155_hour_sin,Historical calendar,0.05325343203750144
+lag_155_hour_cos,Historical calendar,0.04242332182066357
+lag_155_weekday_sin,Historical calendar,0.07851803475211507
+lag_155_weekday_cos,Historical calendar,0.0
+lag_155_year_sin,Historical calendar,0.0
+lag_155_year_cos,Historical calendar,0.020694009514711766
+lag_155_is_weekend,Historical calendar,0.045848931417224154
+lag_154_demand_kw,Historical electrical measurements,0.0
+lag_154_reactive_power_kvar,Historical electrical measurements,0.0
+lag_154_voltage_v,Historical electrical measurements,0.0
+lag_154_current_a,Historical electrical measurements,0.07822405110544602
+lag_154_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_154_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_154_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_154_hour_sin,Historical calendar,0.0
+lag_154_hour_cos,Historical calendar,0.0
+lag_154_weekday_sin,Historical calendar,0.09102094358232793
+lag_154_weekday_cos,Historical calendar,0.03364950683873214
+lag_154_year_sin,Historical calendar,0.0
+lag_154_year_cos,Historical calendar,1.0016737788636279
+lag_154_is_weekend,Historical calendar,0.0
+lag_153_demand_kw,Historical electrical measurements,0.08050980173848644
+lag_153_reactive_power_kvar,Historical electrical measurements,0.0
+lag_153_voltage_v,Historical electrical measurements,0.0
+lag_153_current_a,Historical electrical measurements,0.012283471344390782
+lag_153_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_153_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_153_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_153_hour_sin,Historical calendar,0.11679485328446391
+lag_153_hour_cos,Historical calendar,0.0
+lag_153_weekday_sin,Historical calendar,0.031525273209575336
+lag_153_weekday_cos,Historical calendar,0.021512297818416404
+lag_153_year_sin,Historical calendar,0.0
+lag_153_year_cos,Historical calendar,0.0
+lag_153_is_weekend,Historical calendar,0.0
+lag_152_demand_kw,Historical electrical measurements,0.0175033624033646
+lag_152_reactive_power_kvar,Historical electrical measurements,0.0
+lag_152_voltage_v,Historical electrical measurements,0.014563667873073054
+lag_152_current_a,Historical electrical measurements,0.0
+lag_152_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_152_sub_metering_2_wh_per_minute,Historical electrical measurements,0.013722605635327912
+lag_152_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01915710454385293
+lag_152_hour_sin,Historical calendar,0.0
+lag_152_hour_cos,Historical calendar,0.007394984222588862
+lag_152_weekday_sin,Historical calendar,0.0
+lag_152_weekday_cos,Historical calendar,0.0
+lag_152_year_sin,Historical calendar,0.0
+lag_152_year_cos,Historical calendar,0.1935195034424667
+lag_152_is_weekend,Historical calendar,0.036650160822592454
+lag_151_demand_kw,Historical electrical measurements,0.053383676894796554
+lag_151_reactive_power_kvar,Historical electrical measurements,0.0
+lag_151_voltage_v,Historical electrical measurements,0.0
+lag_151_current_a,Historical electrical measurements,0.14200778994002433
+lag_151_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_151_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_151_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01483851791912274
+lag_151_hour_sin,Historical calendar,0.09260699853197943
+lag_151_hour_cos,Historical calendar,0.02631739208343205
+lag_151_weekday_sin,Historical calendar,0.04176871563568108
+lag_151_weekday_cos,Historical calendar,0.07035373282502287
+lag_151_year_sin,Historical calendar,0.036755463857161656
+lag_151_year_cos,Historical calendar,0.11354678709884797
+lag_151_is_weekend,Historical calendar,0.0
+lag_150_demand_kw,Historical electrical measurements,0.06372211791361514
+lag_150_reactive_power_kvar,Historical electrical measurements,0.0
+lag_150_voltage_v,Historical electrical measurements,0.0
+lag_150_current_a,Historical electrical measurements,0.01723550577182761
+lag_150_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_150_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_150_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_150_hour_sin,Historical calendar,0.011421347311016867
+lag_150_hour_cos,Historical calendar,0.021784070371132006
+lag_150_weekday_sin,Historical calendar,0.0
+lag_150_weekday_cos,Historical calendar,0.0
+lag_150_year_sin,Historical calendar,0.0
+lag_150_year_cos,Historical calendar,0.0
+lag_150_is_weekend,Historical calendar,0.12640460690480623
+lag_149_demand_kw,Historical electrical measurements,0.04838065133405989
+lag_149_reactive_power_kvar,Historical electrical measurements,0.0
+lag_149_voltage_v,Historical electrical measurements,0.0
+lag_149_current_a,Historical electrical measurements,0.10406176433312665
+lag_149_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_149_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_149_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_149_hour_sin,Historical calendar,0.0
+lag_149_hour_cos,Historical calendar,0.010320536486702241
+lag_149_weekday_sin,Historical calendar,0.05636644579411295
+lag_149_weekday_cos,Historical calendar,0.0
+lag_149_year_sin,Historical calendar,0.0
+lag_149_year_cos,Historical calendar,0.09340968285278167
+lag_149_is_weekend,Historical calendar,0.0
+lag_148_demand_kw,Historical electrical measurements,0.03968861878945979
+lag_148_reactive_power_kvar,Historical electrical measurements,0.0
+lag_148_voltage_v,Historical electrical measurements,0.0
+lag_148_current_a,Historical electrical measurements,0.08064164492708567
+lag_148_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_148_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_148_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01571776308842069
+lag_148_hour_sin,Historical calendar,0.055348224604283736
+lag_148_hour_cos,Historical calendar,0.015467840428093101
+lag_148_weekday_sin,Historical calendar,0.0
+lag_148_weekday_cos,Historical calendar,0.0
+lag_148_year_sin,Historical calendar,0.0
+lag_148_year_cos,Historical calendar,0.04978988870785744
+lag_148_is_weekend,Historical calendar,0.0
+lag_147_demand_kw,Historical electrical measurements,0.09135363643428329
+lag_147_reactive_power_kvar,Historical electrical measurements,0.0
+lag_147_voltage_v,Historical electrical measurements,0.0
+lag_147_current_a,Historical electrical measurements,0.012235890533509307
+lag_147_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_147_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0141504581515616
+lag_147_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_147_hour_sin,Historical calendar,0.0
+lag_147_hour_cos,Historical calendar,0.08702872637776696
+lag_147_weekday_sin,Historical calendar,0.0452138947324781
+lag_147_weekday_cos,Historical calendar,0.0
+lag_147_year_sin,Historical calendar,0.03009486198194737
+lag_147_year_cos,Historical calendar,0.0
+lag_147_is_weekend,Historical calendar,0.0
+lag_146_demand_kw,Historical electrical measurements,0.06288425865817678
+lag_146_reactive_power_kvar,Historical electrical measurements,0.0
+lag_146_voltage_v,Historical electrical measurements,0.013109594688945748
+lag_146_current_a,Historical electrical measurements,0.051580314525454564
+lag_146_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_146_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_146_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_146_hour_sin,Historical calendar,0.0
+lag_146_hour_cos,Historical calendar,0.018169270737090515
+lag_146_weekday_sin,Historical calendar,0.036038839140027853
+lag_146_weekday_cos,Historical calendar,0.0
+lag_146_year_sin,Historical calendar,0.0
+lag_146_year_cos,Historical calendar,0.0
+lag_146_is_weekend,Historical calendar,0.0
+lag_145_demand_kw,Historical electrical measurements,0.027025521003600405
+lag_145_reactive_power_kvar,Historical electrical measurements,0.0
+lag_145_voltage_v,Historical electrical measurements,0.0
+lag_145_current_a,Historical electrical measurements,0.08269224228171848
+lag_145_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_145_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_145_sub_metering_3_wh_per_minute,Historical electrical measurements,0.06818209066129027
+lag_145_hour_sin,Historical calendar,0.1250021163455578
+lag_145_hour_cos,Historical calendar,0.18018901430704443
+lag_145_weekday_sin,Historical calendar,0.0
+lag_145_weekday_cos,Historical calendar,0.02281042909762039
+lag_145_year_sin,Historical calendar,0.0
+lag_145_year_cos,Historical calendar,0.0
+lag_145_is_weekend,Historical calendar,0.0
+lag_144_demand_kw,Historical electrical measurements,0.011774089139982286
+lag_144_reactive_power_kvar,Historical electrical measurements,0.0
+lag_144_voltage_v,Historical electrical measurements,0.0
+lag_144_current_a,Historical electrical measurements,0.019691309162384808
+lag_144_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_144_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_144_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_144_hour_sin,Historical calendar,0.01962067971221956
+lag_144_hour_cos,Historical calendar,0.1941181118132732
+lag_144_weekday_sin,Historical calendar,0.0
+lag_144_weekday_cos,Historical calendar,0.0
+lag_144_year_sin,Historical calendar,0.024152349780828666
+lag_144_year_cos,Historical calendar,0.0
+lag_144_is_weekend,Historical calendar,0.0
+lag_143_demand_kw,Historical electrical measurements,0.0
+lag_143_reactive_power_kvar,Historical electrical measurements,0.0
+lag_143_voltage_v,Historical electrical measurements,0.01410344145456181
+lag_143_current_a,Historical electrical measurements,0.0
+lag_143_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_143_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_143_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_143_hour_sin,Historical calendar,0.0
+lag_143_hour_cos,Historical calendar,0.7326300054979232
+lag_143_weekday_sin,Historical calendar,0.0
+lag_143_weekday_cos,Historical calendar,0.0
+lag_143_year_sin,Historical calendar,0.0
+lag_143_year_cos,Historical calendar,0.0
+lag_143_is_weekend,Historical calendar,0.0
+lag_142_demand_kw,Historical electrical measurements,0.0
+lag_142_reactive_power_kvar,Historical electrical measurements,0.0
+lag_142_voltage_v,Historical electrical measurements,0.0
+lag_142_current_a,Historical electrical measurements,0.008179667338834413
+lag_142_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_142_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_142_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_142_hour_sin,Historical calendar,0.020412404893926518
+lag_142_hour_cos,Historical calendar,0.130451918916829
+lag_142_weekday_sin,Historical calendar,0.0
+lag_142_weekday_cos,Historical calendar,0.024620846307771404
+lag_142_year_sin,Historical calendar,0.0
+lag_142_year_cos,Historical calendar,0.009803665257369917
+lag_142_is_weekend,Historical calendar,0.0
+lag_141_demand_kw,Historical electrical measurements,0.030932707018742737
+lag_141_reactive_power_kvar,Historical electrical measurements,0.0
+lag_141_voltage_v,Historical electrical measurements,0.0
+lag_141_current_a,Historical electrical measurements,0.0
+lag_141_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_141_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01567420293641412
+lag_141_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_141_hour_sin,Historical calendar,0.0
+lag_141_hour_cos,Historical calendar,0.3121360820859504
+lag_141_weekday_sin,Historical calendar,0.02844362750524286
+lag_141_weekday_cos,Historical calendar,0.0
+lag_141_year_sin,Historical calendar,0.028237631512913957
+lag_141_year_cos,Historical calendar,0.0
+lag_141_is_weekend,Historical calendar,0.0
+lag_140_demand_kw,Historical electrical measurements,0.0
+lag_140_reactive_power_kvar,Historical electrical measurements,0.0
+lag_140_voltage_v,Historical electrical measurements,0.009445455149129511
+lag_140_current_a,Historical electrical measurements,0.01734933188884201
+lag_140_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_140_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_140_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_140_hour_sin,Historical calendar,0.0
+lag_140_hour_cos,Historical calendar,0.01236930215057196
+lag_140_weekday_sin,Historical calendar,0.0
+lag_140_weekday_cos,Historical calendar,0.0
+lag_140_year_sin,Historical calendar,0.0
+lag_140_year_cos,Historical calendar,0.0
+lag_140_is_weekend,Historical calendar,0.0
+lag_139_demand_kw,Historical electrical measurements,0.0
+lag_139_reactive_power_kvar,Historical electrical measurements,0.0
+lag_139_voltage_v,Historical electrical measurements,0.0
+lag_139_current_a,Historical electrical measurements,0.0
+lag_139_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_139_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_139_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_139_hour_sin,Historical calendar,0.649133555664288
+lag_139_hour_cos,Historical calendar,0.0
+lag_139_weekday_sin,Historical calendar,0.0
+lag_139_weekday_cos,Historical calendar,0.0
+lag_139_year_sin,Historical calendar,0.06296669351501503
+lag_139_year_cos,Historical calendar,0.0
+lag_139_is_weekend,Historical calendar,0.0
+lag_138_demand_kw,Historical electrical measurements,0.0
+lag_138_reactive_power_kvar,Historical electrical measurements,0.0
+lag_138_voltage_v,Historical electrical measurements,0.0
+lag_138_current_a,Historical electrical measurements,0.0
+lag_138_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_138_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_138_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_138_hour_sin,Historical calendar,0.01340608136750943
+lag_138_hour_cos,Historical calendar,0.0
+lag_138_weekday_sin,Historical calendar,0.0
+lag_138_weekday_cos,Historical calendar,0.051249310782332136
+lag_138_year_sin,Historical calendar,0.0
+lag_138_year_cos,Historical calendar,0.0
+lag_138_is_weekend,Historical calendar,0.0
+lag_137_demand_kw,Historical electrical measurements,0.0
+lag_137_reactive_power_kvar,Historical electrical measurements,0.0
+lag_137_voltage_v,Historical electrical measurements,0.0
+lag_137_current_a,Historical electrical measurements,0.0
+lag_137_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_137_sub_metering_2_wh_per_minute,Historical electrical measurements,0.016984970219464136
+lag_137_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_137_hour_sin,Historical calendar,0.006385549456075499
+lag_137_hour_cos,Historical calendar,0.06979637387187415
+lag_137_weekday_sin,Historical calendar,0.014763741532361306
+lag_137_weekday_cos,Historical calendar,0.0
+lag_137_year_sin,Historical calendar,0.0
+lag_137_year_cos,Historical calendar,0.15517090151462193
+lag_137_is_weekend,Historical calendar,0.0
+lag_136_demand_kw,Historical electrical measurements,0.0
+lag_136_reactive_power_kvar,Historical electrical measurements,0.0
+lag_136_voltage_v,Historical electrical measurements,0.02318211688933003
+lag_136_current_a,Historical electrical measurements,0.0139005409269344
+lag_136_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_136_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_136_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_136_hour_sin,Historical calendar,0.46336164066121593
+lag_136_hour_cos,Historical calendar,0.0
+lag_136_weekday_sin,Historical calendar,0.0
+lag_136_weekday_cos,Historical calendar,0.013259068091824491
+lag_136_year_sin,Historical calendar,0.0
+lag_136_year_cos,Historical calendar,0.012993621651337722
+lag_136_is_weekend,Historical calendar,0.0
+lag_135_demand_kw,Historical electrical measurements,0.0
+lag_135_reactive_power_kvar,Historical electrical measurements,0.0
+lag_135_voltage_v,Historical electrical measurements,0.012344825957149835
+lag_135_current_a,Historical electrical measurements,0.0
+lag_135_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_135_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_135_sub_metering_3_wh_per_minute,Historical electrical measurements,0.012397514164622394
+lag_135_hour_sin,Historical calendar,0.11488481120453671
+lag_135_hour_cos,Historical calendar,0.01389723062631034
+lag_135_weekday_sin,Historical calendar,0.02552493780070512
+lag_135_weekday_cos,Historical calendar,0.01534871787238323
+lag_135_year_sin,Historical calendar,0.0
+lag_135_year_cos,Historical calendar,0.020978867177373885
+lag_135_is_weekend,Historical calendar,0.0
+lag_134_demand_kw,Historical electrical measurements,0.015093829196215958
+lag_134_reactive_power_kvar,Historical electrical measurements,0.0
+lag_134_voltage_v,Historical electrical measurements,0.0
+lag_134_current_a,Historical electrical measurements,0.02028648603740555
+lag_134_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_134_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_134_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_134_hour_sin,Historical calendar,0.0588925975155483
+lag_134_hour_cos,Historical calendar,0.05808303058580184
+lag_134_weekday_sin,Historical calendar,0.03506833665061396
+lag_134_weekday_cos,Historical calendar,0.0
+lag_134_year_sin,Historical calendar,0.0
+lag_134_year_cos,Historical calendar,0.019603090330750562
+lag_134_is_weekend,Historical calendar,0.0
+lag_133_demand_kw,Historical electrical measurements,0.0
+lag_133_reactive_power_kvar,Historical electrical measurements,0.0
+lag_133_voltage_v,Historical electrical measurements,0.0
+lag_133_current_a,Historical electrical measurements,0.0
+lag_133_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_133_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_133_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_133_hour_sin,Historical calendar,0.0
+lag_133_hour_cos,Historical calendar,0.021209624651327755
+lag_133_weekday_sin,Historical calendar,0.03539551111437065
+lag_133_weekday_cos,Historical calendar,0.0205592018254501
+lag_133_year_sin,Historical calendar,0.02576132512029542
+lag_133_year_cos,Historical calendar,0.015450550151733664
+lag_133_is_weekend,Historical calendar,0.0
+lag_132_demand_kw,Historical electrical measurements,0.0
+lag_132_reactive_power_kvar,Historical electrical measurements,0.0
+lag_132_voltage_v,Historical electrical measurements,0.0
+lag_132_current_a,Historical electrical measurements,0.0
+lag_132_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_132_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_132_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_132_hour_sin,Historical calendar,0.0
+lag_132_hour_cos,Historical calendar,0.0
+lag_132_weekday_sin,Historical calendar,0.0
+lag_132_weekday_cos,Historical calendar,0.0
+lag_132_year_sin,Historical calendar,0.0
+lag_132_year_cos,Historical calendar,0.03037736835773966
+lag_132_is_weekend,Historical calendar,0.0
+lag_131_demand_kw,Historical electrical measurements,0.015865488957961395
+lag_131_reactive_power_kvar,Historical electrical measurements,0.0
+lag_131_voltage_v,Historical electrical measurements,0.0
+lag_131_current_a,Historical electrical measurements,0.0
+lag_131_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_131_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_131_sub_metering_3_wh_per_minute,Historical electrical measurements,0.012967845118492033
+lag_131_hour_sin,Historical calendar,0.0
+lag_131_hour_cos,Historical calendar,0.0
+lag_131_weekday_sin,Historical calendar,0.0
+lag_131_weekday_cos,Historical calendar,0.0
+lag_131_year_sin,Historical calendar,0.03956973941615791
+lag_131_year_cos,Historical calendar,0.11133049794226216
+lag_131_is_weekend,Historical calendar,0.0
+lag_130_demand_kw,Historical electrical measurements,0.0
+lag_130_reactive_power_kvar,Historical electrical measurements,0.0
+lag_130_voltage_v,Historical electrical measurements,0.0
+lag_130_current_a,Historical electrical measurements,0.0
+lag_130_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_130_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_130_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01791080007142359
+lag_130_hour_sin,Historical calendar,0.0
+lag_130_hour_cos,Historical calendar,0.01783779736658517
+lag_130_weekday_sin,Historical calendar,0.0
+lag_130_weekday_cos,Historical calendar,0.07822410072165209
+lag_130_year_sin,Historical calendar,0.0
+lag_130_year_cos,Historical calendar,0.0
+lag_130_is_weekend,Historical calendar,0.0
+lag_129_demand_kw,Historical electrical measurements,0.0
+lag_129_reactive_power_kvar,Historical electrical measurements,0.0
+lag_129_voltage_v,Historical electrical measurements,0.0
+lag_129_current_a,Historical electrical measurements,0.0
+lag_129_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_129_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_129_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_129_hour_sin,Historical calendar,0.648657947800178
+lag_129_hour_cos,Historical calendar,0.0
+lag_129_weekday_sin,Historical calendar,0.0
+lag_129_weekday_cos,Historical calendar,0.15646595822234285
+lag_129_year_sin,Historical calendar,0.10957816736350263
+lag_129_year_cos,Historical calendar,0.01193317175502399
+lag_129_is_weekend,Historical calendar,0.0
+lag_128_demand_kw,Historical electrical measurements,0.04435366649609036
+lag_128_reactive_power_kvar,Historical electrical measurements,0.0
+lag_128_voltage_v,Historical electrical measurements,0.0
+lag_128_current_a,Historical electrical measurements,0.007463534737092203
+lag_128_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_128_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_128_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_128_hour_sin,Historical calendar,0.1433109608789177
+lag_128_hour_cos,Historical calendar,0.0
+lag_128_weekday_sin,Historical calendar,0.0
+lag_128_weekday_cos,Historical calendar,0.038057928632739095
+lag_128_year_sin,Historical calendar,0.04981172654349782
+lag_128_year_cos,Historical calendar,0.0
+lag_128_is_weekend,Historical calendar,0.0
+lag_127_demand_kw,Historical electrical measurements,0.0
+lag_127_reactive_power_kvar,Historical electrical measurements,0.0
+lag_127_voltage_v,Historical electrical measurements,0.0
+lag_127_current_a,Historical electrical measurements,0.0
+lag_127_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_127_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_127_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_127_hour_sin,Historical calendar,0.02093908000698145
+lag_127_hour_cos,Historical calendar,0.1943295506270963
+lag_127_weekday_sin,Historical calendar,0.08542611302529923
+lag_127_weekday_cos,Historical calendar,0.0
+lag_127_year_sin,Historical calendar,0.0
+lag_127_year_cos,Historical calendar,0.021837560797714147
+lag_127_is_weekend,Historical calendar,0.0
+lag_126_demand_kw,Historical electrical measurements,0.0
+lag_126_reactive_power_kvar,Historical electrical measurements,0.0
+lag_126_voltage_v,Historical electrical measurements,0.0
+lag_126_current_a,Historical electrical measurements,0.011431790701902103
+lag_126_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_126_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_126_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_126_hour_sin,Historical calendar,0.14452007014569854
+lag_126_hour_cos,Historical calendar,0.0
+lag_126_weekday_sin,Historical calendar,0.0
+lag_126_weekday_cos,Historical calendar,0.0
+lag_126_year_sin,Historical calendar,0.011859001597268283
+lag_126_year_cos,Historical calendar,0.9557006173895478
+lag_126_is_weekend,Historical calendar,0.0
+lag_125_demand_kw,Historical electrical measurements,0.04099951883321686
+lag_125_reactive_power_kvar,Historical electrical measurements,0.0
+lag_125_voltage_v,Historical electrical measurements,0.0
+lag_125_current_a,Historical electrical measurements,0.0
+lag_125_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_125_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_125_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_125_hour_sin,Historical calendar,0.09883819512294778
+lag_125_hour_cos,Historical calendar,0.0
+lag_125_weekday_sin,Historical calendar,0.0
+lag_125_weekday_cos,Historical calendar,0.0
+lag_125_year_sin,Historical calendar,0.03313926667077732
+lag_125_year_cos,Historical calendar,0.022659432636199545
+lag_125_is_weekend,Historical calendar,0.0
+lag_124_demand_kw,Historical electrical measurements,0.019665153807714938
+lag_124_reactive_power_kvar,Historical electrical measurements,0.0
+lag_124_voltage_v,Historical electrical measurements,0.0
+lag_124_current_a,Historical electrical measurements,0.025189177159543233
+lag_124_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_124_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_124_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_124_hour_sin,Historical calendar,0.017005888644545723
+lag_124_hour_cos,Historical calendar,0.0
+lag_124_weekday_sin,Historical calendar,0.0
+lag_124_weekday_cos,Historical calendar,0.05790759837541165
+lag_124_year_sin,Historical calendar,0.0
+lag_124_year_cos,Historical calendar,0.0
+lag_124_is_weekend,Historical calendar,0.0
+lag_123_demand_kw,Historical electrical measurements,0.0
+lag_123_reactive_power_kvar,Historical electrical measurements,0.0
+lag_123_voltage_v,Historical electrical measurements,0.0
+lag_123_current_a,Historical electrical measurements,0.0
+lag_123_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_123_sub_metering_2_wh_per_minute,Historical electrical measurements,0.015824704066007594
+lag_123_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_123_hour_sin,Historical calendar,0.0
+lag_123_hour_cos,Historical calendar,0.11966741155154242
+lag_123_weekday_sin,Historical calendar,0.0
+lag_123_weekday_cos,Historical calendar,0.04196671788991374
+lag_123_year_sin,Historical calendar,0.0
+lag_123_year_cos,Historical calendar,0.0
+lag_123_is_weekend,Historical calendar,0.0
+lag_122_demand_kw,Historical electrical measurements,0.0
+lag_122_reactive_power_kvar,Historical electrical measurements,0.0
+lag_122_voltage_v,Historical electrical measurements,0.0
+lag_122_current_a,Historical electrical measurements,0.03903180007127621
+lag_122_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_122_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_122_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_122_hour_sin,Historical calendar,0.0
+lag_122_hour_cos,Historical calendar,0.08461849096516857
+lag_122_weekday_sin,Historical calendar,0.022139231066538638
+lag_122_weekday_cos,Historical calendar,0.0
+lag_122_year_sin,Historical calendar,0.017516141121633168
+lag_122_year_cos,Historical calendar,0.02992603294579356
+lag_122_is_weekend,Historical calendar,0.03489018547363674
+lag_121_demand_kw,Historical electrical measurements,0.0
+lag_121_reactive_power_kvar,Historical electrical measurements,0.0
+lag_121_voltage_v,Historical electrical measurements,0.0
+lag_121_current_a,Historical electrical measurements,0.0
+lag_121_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_121_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_121_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_121_hour_sin,Historical calendar,0.2482065444750301
+lag_121_hour_cos,Historical calendar,0.2073887146306237
+lag_121_weekday_sin,Historical calendar,0.0
+lag_121_weekday_cos,Historical calendar,0.0
+lag_121_year_sin,Historical calendar,0.0
+lag_121_year_cos,Historical calendar,0.0
+lag_121_is_weekend,Historical calendar,0.0
+lag_120_demand_kw,Historical electrical measurements,0.0
+lag_120_reactive_power_kvar,Historical electrical measurements,0.0
+lag_120_voltage_v,Historical electrical measurements,0.0126256226522107
+lag_120_current_a,Historical electrical measurements,0.0
+lag_120_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_120_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_120_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_120_hour_sin,Historical calendar,0.0
+lag_120_hour_cos,Historical calendar,0.21861903807735641
+lag_120_weekday_sin,Historical calendar,0.0
+lag_120_weekday_cos,Historical calendar,0.0
+lag_120_year_sin,Historical calendar,0.0
+lag_120_year_cos,Historical calendar,0.0
+lag_120_is_weekend,Historical calendar,0.0
+lag_119_demand_kw,Historical electrical measurements,0.0
+lag_119_reactive_power_kvar,Historical electrical measurements,0.0
+lag_119_voltage_v,Historical electrical measurements,0.009914829818358943
+lag_119_current_a,Historical electrical measurements,0.0
+lag_119_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_119_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_119_sub_metering_3_wh_per_minute,Historical electrical measurements,0.013153273832672892
+lag_119_hour_sin,Historical calendar,0.014752562783659051
+lag_119_hour_cos,Historical calendar,0.0
+lag_119_weekday_sin,Historical calendar,0.014491118619520252
+lag_119_weekday_cos,Historical calendar,0.03453859562980419
+lag_119_year_sin,Historical calendar,0.0
+lag_119_year_cos,Historical calendar,0.14451495391729452
+lag_119_is_weekend,Historical calendar,0.0
+lag_118_demand_kw,Historical electrical measurements,0.0
+lag_118_reactive_power_kvar,Historical electrical measurements,0.012750843730114193
+lag_118_voltage_v,Historical electrical measurements,0.0
+lag_118_current_a,Historical electrical measurements,0.0
+lag_118_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_118_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_118_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_118_hour_sin,Historical calendar,0.4052702520200836
+lag_118_hour_cos,Historical calendar,0.024797534746956347
+lag_118_weekday_sin,Historical calendar,0.03368615227599622
+lag_118_weekday_cos,Historical calendar,0.0
+lag_118_year_sin,Historical calendar,0.0
+lag_118_year_cos,Historical calendar,0.0
+lag_118_is_weekend,Historical calendar,0.0
+lag_117_demand_kw,Historical electrical measurements,0.010184318772200582
+lag_117_reactive_power_kvar,Historical electrical measurements,0.0
+lag_117_voltage_v,Historical electrical measurements,0.009932151567893871
+lag_117_current_a,Historical electrical measurements,0.0
+lag_117_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_117_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_117_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_117_hour_sin,Historical calendar,0.10521693258705114
+lag_117_hour_cos,Historical calendar,0.15383765675055522
+lag_117_weekday_sin,Historical calendar,0.0
+lag_117_weekday_cos,Historical calendar,0.022168111004391516
+lag_117_year_sin,Historical calendar,0.0
+lag_117_year_cos,Historical calendar,0.025514000466155155
+lag_117_is_weekend,Historical calendar,0.0
+lag_116_demand_kw,Historical electrical measurements,0.0
+lag_116_reactive_power_kvar,Historical electrical measurements,0.0
+lag_116_voltage_v,Historical electrical measurements,0.0
+lag_116_current_a,Historical electrical measurements,0.0
+lag_116_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_116_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_116_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_116_hour_sin,Historical calendar,0.0
+lag_116_hour_cos,Historical calendar,0.0
+lag_116_weekday_sin,Historical calendar,0.0
+lag_116_weekday_cos,Historical calendar,0.0
+lag_116_year_sin,Historical calendar,0.012479180220089587
+lag_116_year_cos,Historical calendar,0.0
+lag_116_is_weekend,Historical calendar,0.0
+lag_115_demand_kw,Historical electrical measurements,0.0
+lag_115_reactive_power_kvar,Historical electrical measurements,0.0
+lag_115_voltage_v,Historical electrical measurements,0.0
+lag_115_current_a,Historical electrical measurements,0.0
+lag_115_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_115_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_115_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_115_hour_sin,Historical calendar,0.0
+lag_115_hour_cos,Historical calendar,0.21017653897811653
+lag_115_weekday_sin,Historical calendar,0.04047559074136562
+lag_115_weekday_cos,Historical calendar,0.021403328184422574
+lag_115_year_sin,Historical calendar,0.0
+lag_115_year_cos,Historical calendar,0.04816095695850255
+lag_115_is_weekend,Historical calendar,0.0
+lag_114_demand_kw,Historical electrical measurements,0.0
+lag_114_reactive_power_kvar,Historical electrical measurements,0.0
+lag_114_voltage_v,Historical electrical measurements,0.0
+lag_114_current_a,Historical electrical measurements,0.029487098082511622
+lag_114_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_114_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_114_sub_metering_3_wh_per_minute,Historical electrical measurements,0.014920062366517224
+lag_114_hour_sin,Historical calendar,0.0
+lag_114_hour_cos,Historical calendar,0.0
+lag_114_weekday_sin,Historical calendar,0.018896465113216947
+lag_114_weekday_cos,Historical calendar,0.0
+lag_114_year_sin,Historical calendar,0.0
+lag_114_year_cos,Historical calendar,0.0
+lag_114_is_weekend,Historical calendar,0.0
+lag_113_demand_kw,Historical electrical measurements,0.0
+lag_113_reactive_power_kvar,Historical electrical measurements,0.0
+lag_113_voltage_v,Historical electrical measurements,0.0
+lag_113_current_a,Historical electrical measurements,0.0
+lag_113_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_113_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_113_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_113_hour_sin,Historical calendar,0.01917988924885139
+lag_113_hour_cos,Historical calendar,0.0
+lag_113_weekday_sin,Historical calendar,0.0
+lag_113_weekday_cos,Historical calendar,0.03205646970889855
+lag_113_year_sin,Historical calendar,0.0
+lag_113_year_cos,Historical calendar,0.0
+lag_113_is_weekend,Historical calendar,0.0
+lag_112_demand_kw,Historical electrical measurements,0.0
+lag_112_reactive_power_kvar,Historical electrical measurements,0.0
+lag_112_voltage_v,Historical electrical measurements,0.0
+lag_112_current_a,Historical electrical measurements,0.0
+lag_112_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_112_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_112_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_112_hour_sin,Historical calendar,0.0
+lag_112_hour_cos,Historical calendar,0.045286160633608075
+lag_112_weekday_sin,Historical calendar,0.0
+lag_112_weekday_cos,Historical calendar,0.0
+lag_112_year_sin,Historical calendar,0.0
+lag_112_year_cos,Historical calendar,0.0
+lag_112_is_weekend,Historical calendar,0.0
+lag_111_demand_kw,Historical electrical measurements,0.011736896703760357
+lag_111_reactive_power_kvar,Historical electrical measurements,0.0
+lag_111_voltage_v,Historical electrical measurements,0.0
+lag_111_current_a,Historical electrical measurements,0.008801662444686432
+lag_111_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_111_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_111_sub_metering_3_wh_per_minute,Historical electrical measurements,0.010100981213064807
+lag_111_hour_sin,Historical calendar,0.10644373760141156
+lag_111_hour_cos,Historical calendar,0.0
+lag_111_weekday_sin,Historical calendar,0.0
+lag_111_weekday_cos,Historical calendar,0.0
+lag_111_year_sin,Historical calendar,0.045679450469437985
+lag_111_year_cos,Historical calendar,0.030597513612269638
+lag_111_is_weekend,Historical calendar,0.0
+lag_110_demand_kw,Historical electrical measurements,0.0
+lag_110_reactive_power_kvar,Historical electrical measurements,0.0
+lag_110_voltage_v,Historical electrical measurements,0.0
+lag_110_current_a,Historical electrical measurements,0.0
+lag_110_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_110_sub_metering_2_wh_per_minute,Historical electrical measurements,0.021340965418078218
+lag_110_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_110_hour_sin,Historical calendar,0.021213572786477793
+lag_110_hour_cos,Historical calendar,0.0
+lag_110_weekday_sin,Historical calendar,0.02555373142562744
+lag_110_weekday_cos,Historical calendar,0.0
+lag_110_year_sin,Historical calendar,0.0
+lag_110_year_cos,Historical calendar,0.0408216257115711
+lag_110_is_weekend,Historical calendar,0.0
+lag_109_demand_kw,Historical electrical measurements,0.0
+lag_109_reactive_power_kvar,Historical electrical measurements,0.0
+lag_109_voltage_v,Historical electrical measurements,0.0
+lag_109_current_a,Historical electrical measurements,0.0
+lag_109_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_109_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_109_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_109_hour_sin,Historical calendar,0.019654281608811656
+lag_109_hour_cos,Historical calendar,0.02025170354228654
+lag_109_weekday_sin,Historical calendar,0.05271699958199517
+lag_109_weekday_cos,Historical calendar,0.029749359274991765
+lag_109_year_sin,Historical calendar,0.0
+lag_109_year_cos,Historical calendar,0.033060932141314545
+lag_109_is_weekend,Historical calendar,0.0
+lag_108_demand_kw,Historical electrical measurements,0.0
+lag_108_reactive_power_kvar,Historical electrical measurements,0.0
+lag_108_voltage_v,Historical electrical measurements,0.0
+lag_108_current_a,Historical electrical measurements,0.0
+lag_108_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_108_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_108_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_108_hour_sin,Historical calendar,0.0
+lag_108_hour_cos,Historical calendar,0.0176321377731439
+lag_108_weekday_sin,Historical calendar,0.018118731961744173
+lag_108_weekday_cos,Historical calendar,0.0
+lag_108_year_sin,Historical calendar,0.0
+lag_108_year_cos,Historical calendar,0.0
+lag_108_is_weekend,Historical calendar,0.0
+lag_107_demand_kw,Historical electrical measurements,0.0
+lag_107_reactive_power_kvar,Historical electrical measurements,0.0
+lag_107_voltage_v,Historical electrical measurements,0.013141287068471811
+lag_107_current_a,Historical electrical measurements,0.010782882334511558
+lag_107_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_107_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_107_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_107_hour_sin,Historical calendar,0.0842511136744943
+lag_107_hour_cos,Historical calendar,0.29383700751477626
+lag_107_weekday_sin,Historical calendar,0.0
+lag_107_weekday_cos,Historical calendar,0.0
+lag_107_year_sin,Historical calendar,0.0
+lag_107_year_cos,Historical calendar,0.0
+lag_107_is_weekend,Historical calendar,0.0
+lag_106_demand_kw,Historical electrical measurements,0.0
+lag_106_reactive_power_kvar,Historical electrical measurements,0.0
+lag_106_voltage_v,Historical electrical measurements,0.0
+lag_106_current_a,Historical electrical measurements,0.015620559943677802
+lag_106_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_106_sub_metering_2_wh_per_minute,Historical electrical measurements,0.012479240868108222
+lag_106_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_106_hour_sin,Historical calendar,0.38019723395493205
+lag_106_hour_cos,Historical calendar,0.08324273736266019
+lag_106_weekday_sin,Historical calendar,0.0
+lag_106_weekday_cos,Historical calendar,0.0
+lag_106_year_sin,Historical calendar,0.0
+lag_106_year_cos,Historical calendar,0.038570799741209034
+lag_106_is_weekend,Historical calendar,0.0
+lag_105_demand_kw,Historical electrical measurements,0.0
+lag_105_reactive_power_kvar,Historical electrical measurements,0.0
+lag_105_voltage_v,Historical electrical measurements,0.0
+lag_105_current_a,Historical electrical measurements,0.0
+lag_105_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_105_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_105_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_105_hour_sin,Historical calendar,0.0
+lag_105_hour_cos,Historical calendar,0.0
+lag_105_weekday_sin,Historical calendar,0.0
+lag_105_weekday_cos,Historical calendar,0.0
+lag_105_year_sin,Historical calendar,0.0
+lag_105_year_cos,Historical calendar,0.013191481054686533
+lag_105_is_weekend,Historical calendar,0.0
+lag_104_demand_kw,Historical electrical measurements,0.0
+lag_104_reactive_power_kvar,Historical electrical measurements,0.0
+lag_104_voltage_v,Historical electrical measurements,0.015769232371211268
+lag_104_current_a,Historical electrical measurements,0.010386084230336354
+lag_104_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_104_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_104_sub_metering_3_wh_per_minute,Historical electrical measurements,0.011992717212873729
+lag_104_hour_sin,Historical calendar,0.24278383112416313
+lag_104_hour_cos,Historical calendar,0.01970764986804866
+lag_104_weekday_sin,Historical calendar,0.05280792922795803
+lag_104_weekday_cos,Historical calendar,0.0
+lag_104_year_sin,Historical calendar,0.0
+lag_104_year_cos,Historical calendar,0.0
+lag_104_is_weekend,Historical calendar,0.0
+lag_103_demand_kw,Historical electrical measurements,0.023303406305631637
+lag_103_reactive_power_kvar,Historical electrical measurements,0.0
+lag_103_voltage_v,Historical electrical measurements,0.0
+lag_103_current_a,Historical electrical measurements,0.0
+lag_103_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_103_sub_metering_2_wh_per_minute,Historical electrical measurements,0.008967084900056342
+lag_103_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_103_hour_sin,Historical calendar,0.0
+lag_103_hour_cos,Historical calendar,0.0
+lag_103_weekday_sin,Historical calendar,0.047357499444887645
+lag_103_weekday_cos,Historical calendar,0.0
+lag_103_year_sin,Historical calendar,0.0
+lag_103_year_cos,Historical calendar,0.0
+lag_103_is_weekend,Historical calendar,0.0
+lag_102_demand_kw,Historical electrical measurements,0.0
+lag_102_reactive_power_kvar,Historical electrical measurements,0.0
+lag_102_voltage_v,Historical electrical measurements,0.0
+lag_102_current_a,Historical electrical measurements,0.014957100228699751
+lag_102_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_102_sub_metering_2_wh_per_minute,Historical electrical measurements,0.010438254968178321
+lag_102_sub_metering_3_wh_per_minute,Historical electrical measurements,0.010813089390433153
+lag_102_hour_sin,Historical calendar,0.07399830461071144
+lag_102_hour_cos,Historical calendar,0.0
+lag_102_weekday_sin,Historical calendar,0.02941860939069379
+lag_102_weekday_cos,Historical calendar,0.0
+lag_102_year_sin,Historical calendar,0.0
+lag_102_year_cos,Historical calendar,0.0
+lag_102_is_weekend,Historical calendar,0.0
+lag_101_demand_kw,Historical electrical measurements,0.0
+lag_101_reactive_power_kvar,Historical electrical measurements,0.0
+lag_101_voltage_v,Historical electrical measurements,0.0
+lag_101_current_a,Historical electrical measurements,0.008255912559416455
+lag_101_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_101_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01395943816815912
+lag_101_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_101_hour_sin,Historical calendar,0.2107167880354055
+lag_101_hour_cos,Historical calendar,0.07267529897486107
+lag_101_weekday_sin,Historical calendar,0.0
+lag_101_weekday_cos,Historical calendar,0.0
+lag_101_year_sin,Historical calendar,0.03295751473728086
+lag_101_year_cos,Historical calendar,0.28765777934296566
+lag_101_is_weekend,Historical calendar,0.0
+lag_100_demand_kw,Historical electrical measurements,0.0
+lag_100_reactive_power_kvar,Historical electrical measurements,0.0
+lag_100_voltage_v,Historical electrical measurements,0.0
+lag_100_current_a,Historical electrical measurements,0.014112943911698598
+lag_100_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_100_sub_metering_2_wh_per_minute,Historical electrical measurements,0.03933543743012848
+lag_100_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0124278373765591
+lag_100_hour_sin,Historical calendar,0.0
+lag_100_hour_cos,Historical calendar,0.5510117930205674
+lag_100_weekday_sin,Historical calendar,0.0
+lag_100_weekday_cos,Historical calendar,0.0
+lag_100_year_sin,Historical calendar,0.0
+lag_100_year_cos,Historical calendar,0.0
+lag_100_is_weekend,Historical calendar,0.0
+lag_99_demand_kw,Historical electrical measurements,0.0
+lag_99_reactive_power_kvar,Historical electrical measurements,0.0
+lag_99_voltage_v,Historical electrical measurements,0.0
+lag_99_current_a,Historical electrical measurements,0.0
+lag_99_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_99_sub_metering_2_wh_per_minute,Historical electrical measurements,0.012682899218198075
+lag_99_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_99_hour_sin,Historical calendar,0.027879316608521457
+lag_99_hour_cos,Historical calendar,0.0
+lag_99_weekday_sin,Historical calendar,0.02354181551887406
+lag_99_weekday_cos,Historical calendar,0.0
+lag_99_year_sin,Historical calendar,0.0
+lag_99_year_cos,Historical calendar,0.0
+lag_99_is_weekend,Historical calendar,0.0
+lag_98_demand_kw,Historical electrical measurements,0.0
+lag_98_reactive_power_kvar,Historical electrical measurements,0.0
+lag_98_voltage_v,Historical electrical measurements,0.0
+lag_98_current_a,Historical electrical measurements,0.0
+lag_98_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_98_sub_metering_2_wh_per_minute,Historical electrical measurements,0.025128458317933436
+lag_98_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01566086603763268
+lag_98_hour_sin,Historical calendar,0.0
+lag_98_hour_cos,Historical calendar,0.3779633047285899
+lag_98_weekday_sin,Historical calendar,0.08706265203010367
+lag_98_weekday_cos,Historical calendar,0.017089028861035166
+lag_98_year_sin,Historical calendar,0.02413919435930546
+lag_98_year_cos,Historical calendar,0.0
+lag_98_is_weekend,Historical calendar,0.0
+lag_97_demand_kw,Historical electrical measurements,0.0
+lag_97_reactive_power_kvar,Historical electrical measurements,0.0
+lag_97_voltage_v,Historical electrical measurements,0.017569732478893648
+lag_97_current_a,Historical electrical measurements,0.017349152898863997
+lag_97_sub_metering_1_wh_per_minute,Historical electrical measurements,0.011547389714766503
+lag_97_sub_metering_2_wh_per_minute,Historical electrical measurements,0.014830688783954458
+lag_97_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_97_hour_sin,Historical calendar,0.051528437349797014
+lag_97_hour_cos,Historical calendar,0.4967108050759923
+lag_97_weekday_sin,Historical calendar,0.0
+lag_97_weekday_cos,Historical calendar,0.0
+lag_97_year_sin,Historical calendar,0.0
+lag_97_year_cos,Historical calendar,0.0
+lag_97_is_weekend,Historical calendar,0.0
+lag_96_demand_kw,Historical electrical measurements,0.0
+lag_96_reactive_power_kvar,Historical electrical measurements,0.0
+lag_96_voltage_v,Historical electrical measurements,0.009686096666395243
+lag_96_current_a,Historical electrical measurements,0.011893879519298118
+lag_96_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_96_sub_metering_2_wh_per_minute,Historical electrical measurements,0.009857445639150319
+lag_96_sub_metering_3_wh_per_minute,Historical electrical measurements,0.005722472918583073
+lag_96_hour_sin,Historical calendar,0.29483911307303806
+lag_96_hour_cos,Historical calendar,0.0
+lag_96_weekday_sin,Historical calendar,0.020318362398798036
+lag_96_weekday_cos,Historical calendar,0.0
+lag_96_year_sin,Historical calendar,0.0
+lag_96_year_cos,Historical calendar,0.0
+lag_96_is_weekend,Historical calendar,0.0
+lag_95_demand_kw,Historical electrical measurements,0.0
+lag_95_reactive_power_kvar,Historical electrical measurements,0.0
+lag_95_voltage_v,Historical electrical measurements,0.0
+lag_95_current_a,Historical electrical measurements,0.033444793866561774
+lag_95_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_95_sub_metering_2_wh_per_minute,Historical electrical measurements,0.024967131155600418
+lag_95_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_95_hour_sin,Historical calendar,0.0
+lag_95_hour_cos,Historical calendar,0.0
+lag_95_weekday_sin,Historical calendar,0.0
+lag_95_weekday_cos,Historical calendar,0.03768054884023221
+lag_95_year_sin,Historical calendar,0.01569868261328243
+lag_95_year_cos,Historical calendar,0.0
+lag_95_is_weekend,Historical calendar,0.0
+lag_94_demand_kw,Historical electrical measurements,0.0
+lag_94_reactive_power_kvar,Historical electrical measurements,0.0
+lag_94_voltage_v,Historical electrical measurements,0.0
+lag_94_current_a,Historical electrical measurements,0.0
+lag_94_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_94_sub_metering_2_wh_per_minute,Historical electrical measurements,0.024353683637857594
+lag_94_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_94_hour_sin,Historical calendar,0.0
+lag_94_hour_cos,Historical calendar,0.0
+lag_94_weekday_sin,Historical calendar,0.0
+lag_94_weekday_cos,Historical calendar,0.022373241242241527
+lag_94_year_sin,Historical calendar,0.0
+lag_94_year_cos,Historical calendar,0.0
+lag_94_is_weekend,Historical calendar,0.0
+lag_93_demand_kw,Historical electrical measurements,0.01278346111706244
+lag_93_reactive_power_kvar,Historical electrical measurements,0.0
+lag_93_voltage_v,Historical electrical measurements,0.01642465480668145
+lag_93_current_a,Historical electrical measurements,0.0
+lag_93_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_93_sub_metering_2_wh_per_minute,Historical electrical measurements,0.03237273711942748
+lag_93_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_93_hour_sin,Historical calendar,0.0
+lag_93_hour_cos,Historical calendar,0.0
+lag_93_weekday_sin,Historical calendar,0.0
+lag_93_weekday_cos,Historical calendar,0.0
+lag_93_year_sin,Historical calendar,0.0
+lag_93_year_cos,Historical calendar,0.25631986165250525
+lag_93_is_weekend,Historical calendar,0.0
+lag_92_demand_kw,Historical electrical measurements,0.0
+lag_92_reactive_power_kvar,Historical electrical measurements,0.0
+lag_92_voltage_v,Historical electrical measurements,0.0
+lag_92_current_a,Historical electrical measurements,0.03677664393723714
+lag_92_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_92_sub_metering_2_wh_per_minute,Historical electrical measurements,0.011734027610348245
+lag_92_sub_metering_3_wh_per_minute,Historical electrical measurements,0.03462474985268325
+lag_92_hour_sin,Historical calendar,0.021824150236148317
+lag_92_hour_cos,Historical calendar,0.14355849526184877
+lag_92_weekday_sin,Historical calendar,0.0
+lag_92_weekday_cos,Historical calendar,0.0
+lag_92_year_sin,Historical calendar,0.0
+lag_92_year_cos,Historical calendar,0.0
+lag_92_is_weekend,Historical calendar,0.0
+lag_91_demand_kw,Historical electrical measurements,0.0
+lag_91_reactive_power_kvar,Historical electrical measurements,0.0
+lag_91_voltage_v,Historical electrical measurements,0.0
+lag_91_current_a,Historical electrical measurements,0.0
+lag_91_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_91_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_91_sub_metering_3_wh_per_minute,Historical electrical measurements,0.015884291620077852
+lag_91_hour_sin,Historical calendar,0.0
+lag_91_hour_cos,Historical calendar,0.1336891342475517
+lag_91_weekday_sin,Historical calendar,0.020808855502755786
+lag_91_weekday_cos,Historical calendar,0.0
+lag_91_year_sin,Historical calendar,0.0
+lag_91_year_cos,Historical calendar,0.0
+lag_91_is_weekend,Historical calendar,0.0
+lag_90_demand_kw,Historical electrical measurements,0.0
+lag_90_reactive_power_kvar,Historical electrical measurements,0.0
+lag_90_voltage_v,Historical electrical measurements,0.0
+lag_90_current_a,Historical electrical measurements,0.04023345481403368
+lag_90_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_90_sub_metering_2_wh_per_minute,Historical electrical measurements,0.04365182974898187
+lag_90_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01675009236011151
+lag_90_hour_sin,Historical calendar,0.03632171148596775
+lag_90_hour_cos,Historical calendar,0.41571995907179426
+lag_90_weekday_sin,Historical calendar,0.0
+lag_90_weekday_cos,Historical calendar,0.0
+lag_90_year_sin,Historical calendar,0.03323220329122523
+lag_90_year_cos,Historical calendar,0.022922278921023827
+lag_90_is_weekend,Historical calendar,0.0
+lag_89_demand_kw,Historical electrical measurements,0.0
+lag_89_reactive_power_kvar,Historical electrical measurements,0.0
+lag_89_voltage_v,Historical electrical measurements,0.0
+lag_89_current_a,Historical electrical measurements,0.01639046184700218
+lag_89_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_89_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_89_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_89_hour_sin,Historical calendar,0.32471223509753183
+lag_89_hour_cos,Historical calendar,0.21402018487604269
+lag_89_weekday_sin,Historical calendar,0.0
+lag_89_weekday_cos,Historical calendar,0.0
+lag_89_year_sin,Historical calendar,0.0
+lag_89_year_cos,Historical calendar,0.0
+lag_89_is_weekend,Historical calendar,0.0
+lag_88_demand_kw,Historical electrical measurements,0.02929502669535797
+lag_88_reactive_power_kvar,Historical electrical measurements,0.0
+lag_88_voltage_v,Historical electrical measurements,0.0
+lag_88_current_a,Historical electrical measurements,0.058895190487271445
+lag_88_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_88_sub_metering_2_wh_per_minute,Historical electrical measurements,0.024963887564395364
+lag_88_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_88_hour_sin,Historical calendar,0.019281302781734504
+lag_88_hour_cos,Historical calendar,0.079784014564271
+lag_88_weekday_sin,Historical calendar,0.047784211918540986
+lag_88_weekday_cos,Historical calendar,0.0
+lag_88_year_sin,Historical calendar,0.016903268748605198
+lag_88_year_cos,Historical calendar,0.06743944424338123
+lag_88_is_weekend,Historical calendar,0.0
+lag_87_demand_kw,Historical electrical measurements,0.0
+lag_87_reactive_power_kvar,Historical electrical measurements,0.0
+lag_87_voltage_v,Historical electrical measurements,0.02605585659711365
+lag_87_current_a,Historical electrical measurements,0.01588113575350004
+lag_87_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_87_sub_metering_2_wh_per_minute,Historical electrical measurements,0.047051098346722206
+lag_87_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_87_hour_sin,Historical calendar,0.019877289520581702
+lag_87_hour_cos,Historical calendar,0.025894257884848924
+lag_87_weekday_sin,Historical calendar,0.2772158590662172
+lag_87_weekday_cos,Historical calendar,0.016866856701088204
+lag_87_year_sin,Historical calendar,0.02943749535121808
+lag_87_year_cos,Historical calendar,0.01037978295024392
+lag_87_is_weekend,Historical calendar,0.0
+lag_86_demand_kw,Historical electrical measurements,0.0
+lag_86_reactive_power_kvar,Historical electrical measurements,0.0
+lag_86_voltage_v,Historical electrical measurements,0.0
+lag_86_current_a,Historical electrical measurements,0.0
+lag_86_sub_metering_1_wh_per_minute,Historical electrical measurements,0.01184775273899304
+lag_86_sub_metering_2_wh_per_minute,Historical electrical measurements,0.014522000569826415
+lag_86_sub_metering_3_wh_per_minute,Historical electrical measurements,0.019227021630751007
+lag_86_hour_sin,Historical calendar,0.0
+lag_86_hour_cos,Historical calendar,0.025316623651140985
+lag_86_weekday_sin,Historical calendar,0.0223189829672355
+lag_86_weekday_cos,Historical calendar,0.0
+lag_86_year_sin,Historical calendar,0.0
+lag_86_year_cos,Historical calendar,0.3912951428219512
+lag_86_is_weekend,Historical calendar,0.0
+lag_85_demand_kw,Historical electrical measurements,0.0175641434003588
+lag_85_reactive_power_kvar,Historical electrical measurements,0.0
+lag_85_voltage_v,Historical electrical measurements,0.007825793127966317
+lag_85_current_a,Historical electrical measurements,0.054885191152846693
+lag_85_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_85_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_85_sub_metering_3_wh_per_minute,Historical electrical measurements,0.014150496425289672
+lag_85_hour_sin,Historical calendar,0.009285991882240977
+lag_85_hour_cos,Historical calendar,0.4003058905067185
+lag_85_weekday_sin,Historical calendar,0.2061343979467309
+lag_85_weekday_cos,Historical calendar,0.0
+lag_85_year_sin,Historical calendar,0.0
+lag_85_year_cos,Historical calendar,0.0
+lag_85_is_weekend,Historical calendar,0.0
+lag_84_demand_kw,Historical electrical measurements,0.009434468917068381
+lag_84_reactive_power_kvar,Historical electrical measurements,0.0
+lag_84_voltage_v,Historical electrical measurements,0.0
+lag_84_current_a,Historical electrical measurements,0.0
+lag_84_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_84_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_84_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_84_hour_sin,Historical calendar,0.0
+lag_84_hour_cos,Historical calendar,0.0
+lag_84_weekday_sin,Historical calendar,0.21680629259236492
+lag_84_weekday_cos,Historical calendar,0.0
+lag_84_year_sin,Historical calendar,0.0442773214943056
+lag_84_year_cos,Historical calendar,0.0
+lag_84_is_weekend,Historical calendar,0.0
+lag_83_demand_kw,Historical electrical measurements,0.04539129296729401
+lag_83_reactive_power_kvar,Historical electrical measurements,0.0
+lag_83_voltage_v,Historical electrical measurements,0.0
+lag_83_current_a,Historical electrical measurements,0.04200524602748065
+lag_83_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_83_sub_metering_2_wh_per_minute,Historical electrical measurements,0.019273102016703257
+lag_83_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_83_hour_sin,Historical calendar,0.0
+lag_83_hour_cos,Historical calendar,0.2458522889725282
+lag_83_weekday_sin,Historical calendar,0.020550293319789015
+lag_83_weekday_cos,Historical calendar,0.019267558998668884
+lag_83_year_sin,Historical calendar,0.009721555659224291
+lag_83_year_cos,Historical calendar,0.032893851831612315
+lag_83_is_weekend,Historical calendar,0.0
+lag_82_demand_kw,Historical electrical measurements,0.010590984792562753
+lag_82_reactive_power_kvar,Historical electrical measurements,0.0
+lag_82_voltage_v,Historical electrical measurements,0.0
+lag_82_current_a,Historical electrical measurements,0.0
+lag_82_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_82_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01482921708939335
+lag_82_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_82_hour_sin,Historical calendar,0.01858706362187447
+lag_82_hour_cos,Historical calendar,0.0
+lag_82_weekday_sin,Historical calendar,0.03482730090782378
+lag_82_weekday_cos,Historical calendar,0.0
+lag_82_year_sin,Historical calendar,0.0
+lag_82_year_cos,Historical calendar,0.0
+lag_82_is_weekend,Historical calendar,0.0
+lag_81_demand_kw,Historical electrical measurements,0.016839428019230152
+lag_81_reactive_power_kvar,Historical electrical measurements,0.0
+lag_81_voltage_v,Historical electrical measurements,0.03863533991283285
+lag_81_current_a,Historical electrical measurements,0.0
+lag_81_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_81_sub_metering_2_wh_per_minute,Historical electrical measurements,0.03223057377759953
+lag_81_sub_metering_3_wh_per_minute,Historical electrical measurements,0.010315300562868886
+lag_81_hour_sin,Historical calendar,0.03691298590318221
+lag_81_hour_cos,Historical calendar,0.1900851172840453
+lag_81_weekday_sin,Historical calendar,0.06699738032405418
+lag_81_weekday_cos,Historical calendar,0.0
+lag_81_year_sin,Historical calendar,0.0
+lag_81_year_cos,Historical calendar,0.0
+lag_81_is_weekend,Historical calendar,0.0
+lag_80_demand_kw,Historical electrical measurements,0.04781668975247436
+lag_80_reactive_power_kvar,Historical electrical measurements,0.0
+lag_80_voltage_v,Historical electrical measurements,0.0073873051583796725
+lag_80_current_a,Historical electrical measurements,0.034520010908601115
+lag_80_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_80_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_80_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01715718590449853
+lag_80_hour_sin,Historical calendar,0.0
+lag_80_hour_cos,Historical calendar,0.0
+lag_80_weekday_sin,Historical calendar,0.0
+lag_80_weekday_cos,Historical calendar,0.0
+lag_80_year_sin,Historical calendar,0.0
+lag_80_year_cos,Historical calendar,0.0
+lag_80_is_weekend,Historical calendar,0.034419652640209734
+lag_79_demand_kw,Historical electrical measurements,0.04120198038378313
+lag_79_reactive_power_kvar,Historical electrical measurements,0.0
+lag_79_voltage_v,Historical electrical measurements,0.014674091601743166
+lag_79_current_a,Historical electrical measurements,0.0
+lag_79_sub_metering_1_wh_per_minute,Historical electrical measurements,0.007562299021807
+lag_79_sub_metering_2_wh_per_minute,Historical electrical measurements,0.011096320163525061
+lag_79_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_79_hour_sin,Historical calendar,0.0
+lag_79_hour_cos,Historical calendar,0.01959887044497769
+lag_79_weekday_sin,Historical calendar,0.0
+lag_79_weekday_cos,Historical calendar,0.0307296174265583
+lag_79_year_sin,Historical calendar,0.02128578766286788
+lag_79_year_cos,Historical calendar,0.0
+lag_79_is_weekend,Historical calendar,0.0
+lag_78_demand_kw,Historical electrical measurements,0.0
+lag_78_reactive_power_kvar,Historical electrical measurements,0.0
+lag_78_voltage_v,Historical electrical measurements,0.0
+lag_78_current_a,Historical electrical measurements,0.0
+lag_78_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_78_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_78_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_78_hour_sin,Historical calendar,0.11541200414235207
+lag_78_hour_cos,Historical calendar,0.022924072748829082
+lag_78_weekday_sin,Historical calendar,0.020496197823565508
+lag_78_weekday_cos,Historical calendar,0.0
+lag_78_year_sin,Historical calendar,0.0
+lag_78_year_cos,Historical calendar,0.03714729144738204
+lag_78_is_weekend,Historical calendar,0.0
+lag_77_demand_kw,Historical electrical measurements,0.06286634661640084
+lag_77_reactive_power_kvar,Historical electrical measurements,0.0
+lag_77_voltage_v,Historical electrical measurements,0.0
+lag_77_current_a,Historical electrical measurements,0.02358698150678435
+lag_77_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_77_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_77_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_77_hour_sin,Historical calendar,0.07555774043983696
+lag_77_hour_cos,Historical calendar,0.0
+lag_77_weekday_sin,Historical calendar,0.0
+lag_77_weekday_cos,Historical calendar,0.0
+lag_77_year_sin,Historical calendar,0.0
+lag_77_year_cos,Historical calendar,0.11748265975240939
+lag_77_is_weekend,Historical calendar,0.010720834237655939
+lag_76_demand_kw,Historical electrical measurements,0.03673290124700487
+lag_76_reactive_power_kvar,Historical electrical measurements,0.0
+lag_76_voltage_v,Historical electrical measurements,0.0
+lag_76_current_a,Historical electrical measurements,0.0
+lag_76_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_76_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_76_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_76_hour_sin,Historical calendar,0.6358645958739204
+lag_76_hour_cos,Historical calendar,0.034429189787317654
+lag_76_weekday_sin,Historical calendar,0.051664158532436354
+lag_76_weekday_cos,Historical calendar,0.0
+lag_76_year_sin,Historical calendar,0.0
+lag_76_year_cos,Historical calendar,0.0
+lag_76_is_weekend,Historical calendar,0.0
+lag_75_demand_kw,Historical electrical measurements,0.03681173494667003
+lag_75_reactive_power_kvar,Historical electrical measurements,0.0
+lag_75_voltage_v,Historical electrical measurements,0.009894686846065065
+lag_75_current_a,Historical electrical measurements,0.034503624195890314
+lag_75_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_75_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_75_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_75_hour_sin,Historical calendar,0.019347702236586852
+lag_75_hour_cos,Historical calendar,0.37539371024566154
+lag_75_weekday_sin,Historical calendar,0.011760952384427401
+lag_75_weekday_cos,Historical calendar,0.02178271649489629
+lag_75_year_sin,Historical calendar,0.0
+lag_75_year_cos,Historical calendar,0.022876073285219452
+lag_75_is_weekend,Historical calendar,0.0
+lag_74_demand_kw,Historical electrical measurements,0.0
+lag_74_reactive_power_kvar,Historical electrical measurements,0.0
+lag_74_voltage_v,Historical electrical measurements,0.0
+lag_74_current_a,Historical electrical measurements,0.011852785059713352
+lag_74_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_74_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_74_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01587483531147209
+lag_74_hour_sin,Historical calendar,0.15006880074150916
+lag_74_hour_cos,Historical calendar,0.0
+lag_74_weekday_sin,Historical calendar,0.017126527917830217
+lag_74_weekday_cos,Historical calendar,0.0
+lag_74_year_sin,Historical calendar,0.0
+lag_74_year_cos,Historical calendar,0.0
+lag_74_is_weekend,Historical calendar,0.0
+lag_73_demand_kw,Historical electrical measurements,0.014988795258588618
+lag_73_reactive_power_kvar,Historical electrical measurements,0.0
+lag_73_voltage_v,Historical electrical measurements,0.0
+lag_73_current_a,Historical electrical measurements,0.022770527089532634
+lag_73_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_73_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_73_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01685332629230165
+lag_73_hour_sin,Historical calendar,0.0
+lag_73_hour_cos,Historical calendar,0.0
+lag_73_weekday_sin,Historical calendar,0.0
+lag_73_weekday_cos,Historical calendar,0.0
+lag_73_year_sin,Historical calendar,0.0
+lag_73_year_cos,Historical calendar,0.01035112800695463
+lag_73_is_weekend,Historical calendar,0.0
+lag_72_demand_kw,Historical electrical measurements,0.034521876766082635
+lag_72_reactive_power_kvar,Historical electrical measurements,0.0
+lag_72_voltage_v,Historical electrical measurements,0.0
+lag_72_current_a,Historical electrical measurements,0.0
+lag_72_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_72_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_72_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_72_hour_sin,Historical calendar,0.0
+lag_72_hour_cos,Historical calendar,0.018376563223460755
+lag_72_weekday_sin,Historical calendar,0.09888983239062585
+lag_72_weekday_cos,Historical calendar,0.0
+lag_72_year_sin,Historical calendar,0.05104656991972898
+lag_72_year_cos,Historical calendar,0.0
+lag_72_is_weekend,Historical calendar,0.0
+lag_71_demand_kw,Historical electrical measurements,0.01705138313434728
+lag_71_reactive_power_kvar,Historical electrical measurements,0.0
+lag_71_voltage_v,Historical electrical measurements,0.03325184534163197
+lag_71_current_a,Historical electrical measurements,0.0
+lag_71_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_71_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_71_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_71_hour_sin,Historical calendar,0.10292083654480987
+lag_71_hour_cos,Historical calendar,0.0
+lag_71_weekday_sin,Historical calendar,0.03996336983922491
+lag_71_weekday_cos,Historical calendar,0.0
+lag_71_year_sin,Historical calendar,0.0
+lag_71_year_cos,Historical calendar,0.0
+lag_71_is_weekend,Historical calendar,0.0
+lag_70_demand_kw,Historical electrical measurements,0.007030104740618744
+lag_70_reactive_power_kvar,Historical electrical measurements,0.0
+lag_70_voltage_v,Historical electrical measurements,0.0
+lag_70_current_a,Historical electrical measurements,0.04594190432715729
+lag_70_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_70_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_70_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_70_hour_sin,Historical calendar,0.0
+lag_70_hour_cos,Historical calendar,0.0
+lag_70_weekday_sin,Historical calendar,0.14379783072725358
+lag_70_weekday_cos,Historical calendar,0.0
+lag_70_year_sin,Historical calendar,0.024404182535444473
+lag_70_year_cos,Historical calendar,0.07191900154223506
+lag_70_is_weekend,Historical calendar,0.0
+lag_69_demand_kw,Historical electrical measurements,0.13585832280679222
+lag_69_reactive_power_kvar,Historical electrical measurements,0.009011450744012623
+lag_69_voltage_v,Historical electrical measurements,0.0
+lag_69_current_a,Historical electrical measurements,0.0
+lag_69_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_69_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_69_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_69_hour_sin,Historical calendar,0.04373877043908975
+lag_69_hour_cos,Historical calendar,0.08261452375965622
+lag_69_weekday_sin,Historical calendar,0.021585737675562315
+lag_69_weekday_cos,Historical calendar,0.013012332224512715
+lag_69_year_sin,Historical calendar,0.0
+lag_69_year_cos,Historical calendar,0.032400321377160736
+lag_69_is_weekend,Historical calendar,0.0
+lag_68_demand_kw,Historical electrical measurements,0.10534933071841944
+lag_68_reactive_power_kvar,Historical electrical measurements,0.0
+lag_68_voltage_v,Historical electrical measurements,0.0
+lag_68_current_a,Historical electrical measurements,0.07865328057677418
+lag_68_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_68_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_68_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_68_hour_sin,Historical calendar,0.00933500474403306
+lag_68_hour_cos,Historical calendar,0.0
+lag_68_weekday_sin,Historical calendar,0.0
+lag_68_weekday_cos,Historical calendar,0.0
+lag_68_year_sin,Historical calendar,0.0
+lag_68_year_cos,Historical calendar,0.05384208704277318
+lag_68_is_weekend,Historical calendar,0.0
+lag_67_demand_kw,Historical electrical measurements,0.06884926761203623
+lag_67_reactive_power_kvar,Historical electrical measurements,0.0
+lag_67_voltage_v,Historical electrical measurements,0.016504910602943176
+lag_67_current_a,Historical electrical measurements,0.03705658859365435
+lag_67_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_67_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_67_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_67_hour_sin,Historical calendar,0.0
+lag_67_hour_cos,Historical calendar,0.008800045560259888
+lag_67_weekday_sin,Historical calendar,0.0
+lag_67_weekday_cos,Historical calendar,0.0
+lag_67_year_sin,Historical calendar,0.0
+lag_67_year_cos,Historical calendar,0.0
+lag_67_is_weekend,Historical calendar,0.0
+lag_66_demand_kw,Historical electrical measurements,0.030745225077183122
+lag_66_reactive_power_kvar,Historical electrical measurements,0.0
+lag_66_voltage_v,Historical electrical measurements,0.0
+lag_66_current_a,Historical electrical measurements,0.0442638432277391
+lag_66_sub_metering_1_wh_per_minute,Historical electrical measurements,0.006375338213584675
+lag_66_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_66_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_66_hour_sin,Historical calendar,0.0
+lag_66_hour_cos,Historical calendar,0.0
+lag_66_weekday_sin,Historical calendar,0.0
+lag_66_weekday_cos,Historical calendar,0.0
+lag_66_year_sin,Historical calendar,0.0
+lag_66_year_cos,Historical calendar,0.0
+lag_66_is_weekend,Historical calendar,0.0
+lag_65_demand_kw,Historical electrical measurements,0.1430904973313921
+lag_65_reactive_power_kvar,Historical electrical measurements,0.0
+lag_65_voltage_v,Historical electrical measurements,0.01318812822846757
+lag_65_current_a,Historical electrical measurements,0.05680916182715277
+lag_65_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_65_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_65_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_65_hour_sin,Historical calendar,0.028215062753098725
+lag_65_hour_cos,Historical calendar,0.11467503358701732
+lag_65_weekday_sin,Historical calendar,0.04753228462040179
+lag_65_weekday_cos,Historical calendar,0.0
+lag_65_year_sin,Historical calendar,0.0
+lag_65_year_cos,Historical calendar,0.034124917202776335
+lag_65_is_weekend,Historical calendar,0.0
+lag_64_demand_kw,Historical electrical measurements,0.01706587447352396
+lag_64_reactive_power_kvar,Historical electrical measurements,0.0
+lag_64_voltage_v,Historical electrical measurements,0.031874912088848614
+lag_64_current_a,Historical electrical measurements,0.06310668052626937
+lag_64_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_64_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_64_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_64_hour_sin,Historical calendar,0.0
+lag_64_hour_cos,Historical calendar,0.41725990292407933
+lag_64_weekday_sin,Historical calendar,0.0
+lag_64_weekday_cos,Historical calendar,0.06365071969464234
+lag_64_year_sin,Historical calendar,0.019179528944747837
+lag_64_year_cos,Historical calendar,0.0
+lag_64_is_weekend,Historical calendar,0.01096036158126423
+lag_63_demand_kw,Historical electrical measurements,0.10176131080957002
+lag_63_reactive_power_kvar,Historical electrical measurements,0.0
+lag_63_voltage_v,Historical electrical measurements,0.0
+lag_63_current_a,Historical electrical measurements,0.04900131697668129
+lag_63_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_63_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_63_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_63_hour_sin,Historical calendar,0.3816023608859002
+lag_63_hour_cos,Historical calendar,0.8369512713046255
+lag_63_weekday_sin,Historical calendar,0.04577305886052473
+lag_63_weekday_cos,Historical calendar,0.0
+lag_63_year_sin,Historical calendar,0.0
+lag_63_year_cos,Historical calendar,0.0
+lag_63_is_weekend,Historical calendar,0.04827506915744524
+lag_62_demand_kw,Historical electrical measurements,0.025055466576434943
+lag_62_reactive_power_kvar,Historical electrical measurements,0.0
+lag_62_voltage_v,Historical electrical measurements,0.011199682062945198
+lag_62_current_a,Historical electrical measurements,0.07334137723022031
+lag_62_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_62_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_62_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_62_hour_sin,Historical calendar,0.0
+lag_62_hour_cos,Historical calendar,0.0
+lag_62_weekday_sin,Historical calendar,0.0
+lag_62_weekday_cos,Historical calendar,0.0237663408026984
+lag_62_year_sin,Historical calendar,0.02631603129816624
+lag_62_year_cos,Historical calendar,1.1756715766851191
+lag_62_is_weekend,Historical calendar,0.0
+lag_61_demand_kw,Historical electrical measurements,0.06589608249133476
+lag_61_reactive_power_kvar,Historical electrical measurements,0.0
+lag_61_voltage_v,Historical electrical measurements,0.01871428631262304
+lag_61_current_a,Historical electrical measurements,0.09810712057405088
+lag_61_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_61_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_61_sub_metering_3_wh_per_minute,Historical electrical measurements,0.013129872736109785
+lag_61_hour_sin,Historical calendar,0.0
+lag_61_hour_cos,Historical calendar,0.0
+lag_61_weekday_sin,Historical calendar,0.0
+lag_61_weekday_cos,Historical calendar,0.0
+lag_61_year_sin,Historical calendar,0.0
+lag_61_year_cos,Historical calendar,0.0
+lag_61_is_weekend,Historical calendar,0.0
+lag_60_demand_kw,Historical electrical measurements,0.07774986900839068
+lag_60_reactive_power_kvar,Historical electrical measurements,0.0
+lag_60_voltage_v,Historical electrical measurements,0.0
+lag_60_current_a,Historical electrical measurements,0.015224917312261107
+lag_60_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_60_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_60_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_60_hour_sin,Historical calendar,0.021593159923259102
+lag_60_hour_cos,Historical calendar,0.0
+lag_60_weekday_sin,Historical calendar,0.0
+lag_60_weekday_cos,Historical calendar,0.0
+lag_60_year_sin,Historical calendar,0.035459895295887014
+lag_60_year_cos,Historical calendar,0.0
+lag_60_is_weekend,Historical calendar,0.0
+lag_59_demand_kw,Historical electrical measurements,0.10868745411891273
+lag_59_reactive_power_kvar,Historical electrical measurements,0.0
+lag_59_voltage_v,Historical electrical measurements,0.0
+lag_59_current_a,Historical electrical measurements,0.046192233223760565
+lag_59_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_59_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_59_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_59_hour_sin,Historical calendar,0.2139865486738249
+lag_59_hour_cos,Historical calendar,0.2896447020553044
+lag_59_weekday_sin,Historical calendar,0.0
+lag_59_weekday_cos,Historical calendar,0.0
+lag_59_year_sin,Historical calendar,0.0
+lag_59_year_cos,Historical calendar,0.14280100853040137
+lag_59_is_weekend,Historical calendar,0.0
+lag_58_demand_kw,Historical electrical measurements,0.023652801533898364
+lag_58_reactive_power_kvar,Historical electrical measurements,0.0
+lag_58_voltage_v,Historical electrical measurements,0.0
+lag_58_current_a,Historical electrical measurements,0.02970472378773679
+lag_58_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_58_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_58_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_58_hour_sin,Historical calendar,0.15071694575582534
+lag_58_hour_cos,Historical calendar,0.0
+lag_58_weekday_sin,Historical calendar,0.0
+lag_58_weekday_cos,Historical calendar,0.0
+lag_58_year_sin,Historical calendar,0.0
+lag_58_year_cos,Historical calendar,0.011157896249371052
+lag_58_is_weekend,Historical calendar,0.0
+lag_57_demand_kw,Historical electrical measurements,0.09330913014898762
+lag_57_reactive_power_kvar,Historical electrical measurements,0.0
+lag_57_voltage_v,Historical electrical measurements,0.012868291072276635
+lag_57_current_a,Historical electrical measurements,0.0
+lag_57_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_57_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_57_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_57_hour_sin,Historical calendar,0.10962104992571484
+lag_57_hour_cos,Historical calendar,0.5127803156490515
+lag_57_weekday_sin,Historical calendar,0.0
+lag_57_weekday_cos,Historical calendar,0.02599862492327905
+lag_57_year_sin,Historical calendar,0.0
+lag_57_year_cos,Historical calendar,0.022887380875658413
+lag_57_is_weekend,Historical calendar,0.0
+lag_56_demand_kw,Historical electrical measurements,0.055426544168374024
+lag_56_reactive_power_kvar,Historical electrical measurements,0.0
+lag_56_voltage_v,Historical electrical measurements,0.03557982800709857
+lag_56_current_a,Historical electrical measurements,0.03672127446278232
+lag_56_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_56_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_56_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_56_hour_sin,Historical calendar,0.0
+lag_56_hour_cos,Historical calendar,0.13642840241838866
+lag_56_weekday_sin,Historical calendar,0.0
+lag_56_weekday_cos,Historical calendar,0.0
+lag_56_year_sin,Historical calendar,0.0
+lag_56_year_cos,Historical calendar,0.043205516792265454
+lag_56_is_weekend,Historical calendar,0.0
+lag_55_demand_kw,Historical electrical measurements,0.0
+lag_55_reactive_power_kvar,Historical electrical measurements,0.0
+lag_55_voltage_v,Historical electrical measurements,0.0
+lag_55_current_a,Historical electrical measurements,0.1436328955803447
+lag_55_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_55_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_55_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_55_hour_sin,Historical calendar,0.03704935685384471
+lag_55_hour_cos,Historical calendar,0.14369501232955414
+lag_55_weekday_sin,Historical calendar,0.02643881866767471
+lag_55_weekday_cos,Historical calendar,0.031927425161216286
+lag_55_year_sin,Historical calendar,0.0
+lag_55_year_cos,Historical calendar,0.027708675228680524
+lag_55_is_weekend,Historical calendar,0.0
+lag_54_demand_kw,Historical electrical measurements,0.044316273181364246
+lag_54_reactive_power_kvar,Historical electrical measurements,0.0
+lag_54_voltage_v,Historical electrical measurements,0.007942134241826245
+lag_54_current_a,Historical electrical measurements,0.09946827742497588
+lag_54_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_54_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_54_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_54_hour_sin,Historical calendar,0.0
+lag_54_hour_cos,Historical calendar,0.8645336082551582
+lag_54_weekday_sin,Historical calendar,0.0
+lag_54_weekday_cos,Historical calendar,0.0
+lag_54_year_sin,Historical calendar,0.0
+lag_54_year_cos,Historical calendar,0.029784815529232303
+lag_54_is_weekend,Historical calendar,0.0
+lag_53_demand_kw,Historical electrical measurements,0.011067459640440107
+lag_53_reactive_power_kvar,Historical electrical measurements,0.0
+lag_53_voltage_v,Historical electrical measurements,0.0
+lag_53_current_a,Historical electrical measurements,0.011726961689185678
+lag_53_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_53_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_53_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_53_hour_sin,Historical calendar,0.0
+lag_53_hour_cos,Historical calendar,0.6843117450540175
+lag_53_weekday_sin,Historical calendar,0.0
+lag_53_weekday_cos,Historical calendar,0.02918863747683803
+lag_53_year_sin,Historical calendar,0.05198165318288542
+lag_53_year_cos,Historical calendar,0.01678285395336416
+lag_53_is_weekend,Historical calendar,0.0
+lag_52_demand_kw,Historical electrical measurements,0.11517477636055788
+lag_52_reactive_power_kvar,Historical electrical measurements,0.0
+lag_52_voltage_v,Historical electrical measurements,0.0
+lag_52_current_a,Historical electrical measurements,0.06649652798709942
+lag_52_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_52_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0111886301731684
+lag_52_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_52_hour_sin,Historical calendar,0.0
+lag_52_hour_cos,Historical calendar,1.2046744540866958
+lag_52_weekday_sin,Historical calendar,0.0
+lag_52_weekday_cos,Historical calendar,0.04755662868572107
+lag_52_year_sin,Historical calendar,0.0
+lag_52_year_cos,Historical calendar,0.221861079007682
+lag_52_is_weekend,Historical calendar,0.0
+lag_51_demand_kw,Historical electrical measurements,0.057514713337783116
+lag_51_reactive_power_kvar,Historical electrical measurements,0.009984839961832165
+lag_51_voltage_v,Historical electrical measurements,0.0
+lag_51_current_a,Historical electrical measurements,0.04899111603202362
+lag_51_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_51_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_51_sub_metering_3_wh_per_minute,Historical electrical measurements,0.010478202041493521
+lag_51_hour_sin,Historical calendar,0.1597478016314264
+lag_51_hour_cos,Historical calendar,0.0
+lag_51_weekday_sin,Historical calendar,0.0
+lag_51_weekday_cos,Historical calendar,0.0
+lag_51_year_sin,Historical calendar,0.0
+lag_51_year_cos,Historical calendar,0.1438973548660409
+lag_51_is_weekend,Historical calendar,0.0
+lag_50_demand_kw,Historical electrical measurements,0.0467560377678609
+lag_50_reactive_power_kvar,Historical electrical measurements,0.0
+lag_50_voltage_v,Historical electrical measurements,0.0
+lag_50_current_a,Historical electrical measurements,0.05158774646625836
+lag_50_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_50_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_50_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_50_hour_sin,Historical calendar,0.27518618699993286
+lag_50_hour_cos,Historical calendar,0.20026881803892077
+lag_50_weekday_sin,Historical calendar,0.0
+lag_50_weekday_cos,Historical calendar,0.0
+lag_50_year_sin,Historical calendar,0.0
+lag_50_year_cos,Historical calendar,0.020516983215834693
+lag_50_is_weekend,Historical calendar,0.0
+lag_49_demand_kw,Historical electrical measurements,0.06194187674381496
+lag_49_reactive_power_kvar,Historical electrical measurements,0.0
+lag_49_voltage_v,Historical electrical measurements,0.0
+lag_49_current_a,Historical electrical measurements,0.029604648778828763
+lag_49_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_49_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_49_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_49_hour_sin,Historical calendar,0.030228311972524492
+lag_49_hour_cos,Historical calendar,0.0
+lag_49_weekday_sin,Historical calendar,0.0
+lag_49_weekday_cos,Historical calendar,0.0
+lag_49_year_sin,Historical calendar,0.0
+lag_49_year_cos,Historical calendar,0.0
+lag_49_is_weekend,Historical calendar,0.0
+lag_48_demand_kw,Historical electrical measurements,0.06507156069450563
+lag_48_reactive_power_kvar,Historical electrical measurements,0.0
+lag_48_voltage_v,Historical electrical measurements,0.0
+lag_48_current_a,Historical electrical measurements,0.06795302751102039
+lag_48_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_48_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_48_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_48_hour_sin,Historical calendar,0.0713295716298092
+lag_48_hour_cos,Historical calendar,0.2617027801995337
+lag_48_weekday_sin,Historical calendar,0.0
+lag_48_weekday_cos,Historical calendar,0.0
+lag_48_year_sin,Historical calendar,0.015534208245703866
+lag_48_year_cos,Historical calendar,0.0
+lag_48_is_weekend,Historical calendar,0.0
+lag_47_demand_kw,Historical electrical measurements,0.00959125866930615
+lag_47_reactive_power_kvar,Historical electrical measurements,0.0
+lag_47_voltage_v,Historical electrical measurements,0.0
+lag_47_current_a,Historical electrical measurements,0.030959878502830284
+lag_47_sub_metering_1_wh_per_minute,Historical electrical measurements,0.009859449916378113
+lag_47_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_47_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_47_hour_sin,Historical calendar,0.0
+lag_47_hour_cos,Historical calendar,0.028036416742764567
+lag_47_weekday_sin,Historical calendar,0.0
+lag_47_weekday_cos,Historical calendar,0.0
+lag_47_year_sin,Historical calendar,0.0
+lag_47_year_cos,Historical calendar,0.03348500890375679
+lag_47_is_weekend,Historical calendar,0.0
+lag_46_demand_kw,Historical electrical measurements,0.03571886041461458
+lag_46_reactive_power_kvar,Historical electrical measurements,0.0
+lag_46_voltage_v,Historical electrical measurements,0.0
+lag_46_current_a,Historical electrical measurements,0.0
+lag_46_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_46_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_46_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_46_hour_sin,Historical calendar,0.041472911190040575
+lag_46_hour_cos,Historical calendar,0.0
+lag_46_weekday_sin,Historical calendar,0.0
+lag_46_weekday_cos,Historical calendar,0.3562509059044407
+lag_46_year_sin,Historical calendar,0.01950003980259701
+lag_46_year_cos,Historical calendar,0.024743041483220585
+lag_46_is_weekend,Historical calendar,0.0
+lag_45_demand_kw,Historical electrical measurements,0.07733742525877925
+lag_45_reactive_power_kvar,Historical electrical measurements,0.0
+lag_45_voltage_v,Historical electrical measurements,0.0
+lag_45_current_a,Historical electrical measurements,0.08330452397437918
+lag_45_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_45_sub_metering_2_wh_per_minute,Historical electrical measurements,0.00612505116351522
+lag_45_sub_metering_3_wh_per_minute,Historical electrical measurements,0.014716557776082837
+lag_45_hour_sin,Historical calendar,0.23361488124363988
+lag_45_hour_cos,Historical calendar,0.5571856918661624
+lag_45_weekday_sin,Historical calendar,0.0
+lag_45_weekday_cos,Historical calendar,0.0
+lag_45_year_sin,Historical calendar,0.03613193446293173
+lag_45_year_cos,Historical calendar,0.0
+lag_45_is_weekend,Historical calendar,0.0
+lag_44_demand_kw,Historical electrical measurements,0.0
+lag_44_reactive_power_kvar,Historical electrical measurements,0.0
+lag_44_voltage_v,Historical electrical measurements,0.0
+lag_44_current_a,Historical electrical measurements,0.018588667140863806
+lag_44_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_44_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_44_sub_metering_3_wh_per_minute,Historical electrical measurements,0.018960646578659507
+lag_44_hour_sin,Historical calendar,0.0
+lag_44_hour_cos,Historical calendar,0.0
+lag_44_weekday_sin,Historical calendar,0.0
+lag_44_weekday_cos,Historical calendar,0.0
+lag_44_year_sin,Historical calendar,0.048091694365122346
+lag_44_year_cos,Historical calendar,0.042807139565069555
+lag_44_is_weekend,Historical calendar,0.0
+lag_43_demand_kw,Historical electrical measurements,0.01241043202677395
+lag_43_reactive_power_kvar,Historical electrical measurements,0.0
+lag_43_voltage_v,Historical electrical measurements,0.0
+lag_43_current_a,Historical electrical measurements,0.017722117754988786
+lag_43_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_43_sub_metering_2_wh_per_minute,Historical electrical measurements,0.010556952599213174
+lag_43_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_43_hour_sin,Historical calendar,0.0
+lag_43_hour_cos,Historical calendar,0.10848898540731013
+lag_43_weekday_sin,Historical calendar,0.03433107659593226
+lag_43_weekday_cos,Historical calendar,0.07638689800436128
+lag_43_year_sin,Historical calendar,0.035157064448485216
+lag_43_year_cos,Historical calendar,0.0073945790335994705
+lag_43_is_weekend,Historical calendar,0.0
+lag_42_demand_kw,Historical electrical measurements,0.03448482380310932
+lag_42_reactive_power_kvar,Historical electrical measurements,0.0
+lag_42_voltage_v,Historical electrical measurements,0.0
+lag_42_current_a,Historical electrical measurements,0.044364377648112296
+lag_42_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_42_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_42_sub_metering_3_wh_per_minute,Historical electrical measurements,0.014622538092228674
+lag_42_hour_sin,Historical calendar,0.5256965569363746
+lag_42_hour_cos,Historical calendar,0.0
+lag_42_weekday_sin,Historical calendar,0.0
+lag_42_weekday_cos,Historical calendar,0.10409444136847162
+lag_42_year_sin,Historical calendar,0.0
+lag_42_year_cos,Historical calendar,0.03882127493451638
+lag_42_is_weekend,Historical calendar,0.0
+lag_41_demand_kw,Historical electrical measurements,0.031689087123065306
+lag_41_reactive_power_kvar,Historical electrical measurements,0.0
+lag_41_voltage_v,Historical electrical measurements,0.0
+lag_41_current_a,Historical electrical measurements,0.01654454624021088
+lag_41_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_41_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_41_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_41_hour_sin,Historical calendar,0.0
+lag_41_hour_cos,Historical calendar,0.0
+lag_41_weekday_sin,Historical calendar,0.01648373088500816
+lag_41_weekday_cos,Historical calendar,0.0
+lag_41_year_sin,Historical calendar,0.0
+lag_41_year_cos,Historical calendar,0.0
+lag_41_is_weekend,Historical calendar,0.0
+lag_40_demand_kw,Historical electrical measurements,0.11550763903547952
+lag_40_reactive_power_kvar,Historical electrical measurements,0.0
+lag_40_voltage_v,Historical electrical measurements,0.004380299516837371
+lag_40_current_a,Historical electrical measurements,0.0
+lag_40_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_40_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_40_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_40_hour_sin,Historical calendar,0.005982157764526721
+lag_40_hour_cos,Historical calendar,0.3822040118621019
+lag_40_weekday_sin,Historical calendar,0.0
+lag_40_weekday_cos,Historical calendar,0.31151495611951374
+lag_40_year_sin,Historical calendar,0.0
+lag_40_year_cos,Historical calendar,0.0
+lag_40_is_weekend,Historical calendar,0.0
+lag_39_demand_kw,Historical electrical measurements,0.017407668754098368
+lag_39_reactive_power_kvar,Historical electrical measurements,0.0
+lag_39_voltage_v,Historical electrical measurements,0.025110794092722516
+lag_39_current_a,Historical electrical measurements,0.02482263793867038
+lag_39_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_39_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_39_sub_metering_3_wh_per_minute,Historical electrical measurements,0.021944702433754647
+lag_39_hour_sin,Historical calendar,0.5503492489400231
+lag_39_hour_cos,Historical calendar,0.0
+lag_39_weekday_sin,Historical calendar,0.030983775505037513
+lag_39_weekday_cos,Historical calendar,0.350916988663699
+lag_39_year_sin,Historical calendar,0.0
+lag_39_year_cos,Historical calendar,0.02053126155796291
+lag_39_is_weekend,Historical calendar,0.0
+lag_38_demand_kw,Historical electrical measurements,0.02041481647983041
+lag_38_reactive_power_kvar,Historical electrical measurements,0.0
+lag_38_voltage_v,Historical electrical measurements,0.0
+lag_38_current_a,Historical electrical measurements,0.03764793562953484
+lag_38_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_38_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_38_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_38_hour_sin,Historical calendar,0.021712064934207877
+lag_38_hour_cos,Historical calendar,0.0
+lag_38_weekday_sin,Historical calendar,0.0
+lag_38_weekday_cos,Historical calendar,0.06992821045771379
+lag_38_year_sin,Historical calendar,0.0
+lag_38_year_cos,Historical calendar,0.03664806685252428
+lag_38_is_weekend,Historical calendar,0.0
+lag_37_demand_kw,Historical electrical measurements,0.03852093857804061
+lag_37_reactive_power_kvar,Historical electrical measurements,0.0
+lag_37_voltage_v,Historical electrical measurements,0.0
+lag_37_current_a,Historical electrical measurements,0.051703224573304375
+lag_37_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_37_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_37_sub_metering_3_wh_per_minute,Historical electrical measurements,0.06152399020171436
+lag_37_hour_sin,Historical calendar,0.0
+lag_37_hour_cos,Historical calendar,0.043409313623446556
+lag_37_weekday_sin,Historical calendar,0.0
+lag_37_weekday_cos,Historical calendar,0.0
+lag_37_year_sin,Historical calendar,0.0
+lag_37_year_cos,Historical calendar,0.04474157700630648
+lag_37_is_weekend,Historical calendar,0.0
+lag_36_demand_kw,Historical electrical measurements,0.0725422959075068
+lag_36_reactive_power_kvar,Historical electrical measurements,0.0
+lag_36_voltage_v,Historical electrical measurements,0.0
+lag_36_current_a,Historical electrical measurements,0.09736917535291033
+lag_36_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_36_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_36_sub_metering_3_wh_per_minute,Historical electrical measurements,0.011786727815274052
+lag_36_hour_sin,Historical calendar,0.09567186929501079
+lag_36_hour_cos,Historical calendar,0.0
+lag_36_weekday_sin,Historical calendar,0.0
+lag_36_weekday_cos,Historical calendar,0.5865950470601904
+lag_36_year_sin,Historical calendar,0.0
+lag_36_year_cos,Historical calendar,0.03805897995224364
+lag_36_is_weekend,Historical calendar,0.0
+lag_35_demand_kw,Historical electrical measurements,0.04577107604202104
+lag_35_reactive_power_kvar,Historical electrical measurements,0.0
+lag_35_voltage_v,Historical electrical measurements,0.0
+lag_35_current_a,Historical electrical measurements,0.053153650899452703
+lag_35_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_35_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_35_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01445718430139381
+lag_35_hour_sin,Historical calendar,0.005861658736904667
+lag_35_hour_cos,Historical calendar,0.17597589462797977
+lag_35_weekday_sin,Historical calendar,0.028525662527356346
+lag_35_weekday_cos,Historical calendar,0.0
+lag_35_year_sin,Historical calendar,0.0
+lag_35_year_cos,Historical calendar,0.04163542514583658
+lag_35_is_weekend,Historical calendar,0.0
+lag_34_demand_kw,Historical electrical measurements,0.08677605774121906
+lag_34_reactive_power_kvar,Historical electrical measurements,0.0
+lag_34_voltage_v,Historical electrical measurements,0.0069093638322379304
+lag_34_current_a,Historical electrical measurements,0.013277393929003957
+lag_34_sub_metering_1_wh_per_minute,Historical electrical measurements,0.008104731126246404
+lag_34_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_34_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_34_hour_sin,Historical calendar,0.0
+lag_34_hour_cos,Historical calendar,0.0
+lag_34_weekday_sin,Historical calendar,0.0
+lag_34_weekday_cos,Historical calendar,0.14936267666239983
+lag_34_year_sin,Historical calendar,0.0
+lag_34_year_cos,Historical calendar,0.0
+lag_34_is_weekend,Historical calendar,0.0
+lag_33_demand_kw,Historical electrical measurements,0.14371199648474287
+lag_33_reactive_power_kvar,Historical electrical measurements,0.0
+lag_33_voltage_v,Historical electrical measurements,0.0
+lag_33_current_a,Historical electrical measurements,0.0
+lag_33_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_33_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_33_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_33_hour_sin,Historical calendar,0.020202680631019758
+lag_33_hour_cos,Historical calendar,0.03348496693642178
+lag_33_weekday_sin,Historical calendar,0.0
+lag_33_weekday_cos,Historical calendar,0.0
+lag_33_year_sin,Historical calendar,0.0
+lag_33_year_cos,Historical calendar,0.0
+lag_33_is_weekend,Historical calendar,0.0
+lag_32_demand_kw,Historical electrical measurements,0.03708441101368522
+lag_32_reactive_power_kvar,Historical electrical measurements,0.0
+lag_32_voltage_v,Historical electrical measurements,0.0
+lag_32_current_a,Historical electrical measurements,0.03671347366392787
+lag_32_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_32_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_32_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_32_hour_sin,Historical calendar,0.4610647429436162
+lag_32_hour_cos,Historical calendar,0.0
+lag_32_weekday_sin,Historical calendar,0.0
+lag_32_weekday_cos,Historical calendar,0.0
+lag_32_year_sin,Historical calendar,0.0
+lag_32_year_cos,Historical calendar,0.07188747183545371
+lag_32_is_weekend,Historical calendar,0.0
+lag_31_demand_kw,Historical electrical measurements,0.10012648748130511
+lag_31_reactive_power_kvar,Historical electrical measurements,0.0
+lag_31_voltage_v,Historical electrical measurements,0.0
+lag_31_current_a,Historical electrical measurements,0.06542970235664873
+lag_31_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_31_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_31_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_31_hour_sin,Historical calendar,0.0
+lag_31_hour_cos,Historical calendar,0.0
+lag_31_weekday_sin,Historical calendar,0.03075705969401928
+lag_31_weekday_cos,Historical calendar,0.0
+lag_31_year_sin,Historical calendar,0.07491037543235496
+lag_31_year_cos,Historical calendar,0.03361652155752015
+lag_31_is_weekend,Historical calendar,0.0
+lag_30_demand_kw,Historical electrical measurements,0.027513688625442817
+lag_30_reactive_power_kvar,Historical electrical measurements,0.0
+lag_30_voltage_v,Historical electrical measurements,0.0
+lag_30_current_a,Historical electrical measurements,0.03558950141016728
+lag_30_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_30_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_30_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_30_hour_sin,Historical calendar,0.03238087066769131
+lag_30_hour_cos,Historical calendar,0.08888558118185863
+lag_30_weekday_sin,Historical calendar,0.018849560632810347
+lag_30_weekday_cos,Historical calendar,0.02116244907520246
+lag_30_year_sin,Historical calendar,0.0
+lag_30_year_cos,Historical calendar,0.027195206904140894
+lag_30_is_weekend,Historical calendar,0.0
+lag_29_demand_kw,Historical electrical measurements,0.04590634205315034
+lag_29_reactive_power_kvar,Historical electrical measurements,0.0
+lag_29_voltage_v,Historical electrical measurements,0.0
+lag_29_current_a,Historical electrical measurements,0.028498505302395227
+lag_29_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_29_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_29_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_29_hour_sin,Historical calendar,0.0
+lag_29_hour_cos,Historical calendar,0.2657500210662838
+lag_29_weekday_sin,Historical calendar,0.0
+lag_29_weekday_cos,Historical calendar,0.0
+lag_29_year_sin,Historical calendar,0.02254731572583351
+lag_29_year_cos,Historical calendar,0.01846822409972221
+lag_29_is_weekend,Historical calendar,0.0
+lag_28_demand_kw,Historical electrical measurements,0.015179825187888726
+lag_28_reactive_power_kvar,Historical electrical measurements,0.0
+lag_28_voltage_v,Historical electrical measurements,0.0
+lag_28_current_a,Historical electrical measurements,0.02083595792543503
+lag_28_sub_metering_1_wh_per_minute,Historical electrical measurements,0.012018023267366638
+lag_28_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_28_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_28_hour_sin,Historical calendar,0.0
+lag_28_hour_cos,Historical calendar,0.5143203139611697
+lag_28_weekday_sin,Historical calendar,0.0
+lag_28_weekday_cos,Historical calendar,0.03479915061383708
+lag_28_year_sin,Historical calendar,0.018456906479938053
+lag_28_year_cos,Historical calendar,0.011918838738471412
+lag_28_is_weekend,Historical calendar,0.0
+lag_27_demand_kw,Historical electrical measurements,0.021200115679642875
+lag_27_reactive_power_kvar,Historical electrical measurements,0.0
+lag_27_voltage_v,Historical electrical measurements,0.0
+lag_27_current_a,Historical electrical measurements,0.051481863568773614
+lag_27_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_27_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_27_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_27_hour_sin,Historical calendar,0.0
+lag_27_hour_cos,Historical calendar,0.0
+lag_27_weekday_sin,Historical calendar,0.01738531759909926
+lag_27_weekday_cos,Historical calendar,0.1261058767723573
+lag_27_year_sin,Historical calendar,0.034454768506242774
+lag_27_year_cos,Historical calendar,0.052259396296750575
+lag_27_is_weekend,Historical calendar,0.0
+lag_26_demand_kw,Historical electrical measurements,0.03493503758715493
+lag_26_reactive_power_kvar,Historical electrical measurements,0.0
+lag_26_voltage_v,Historical electrical measurements,0.013949381203735211
+lag_26_current_a,Historical electrical measurements,0.04075814125458229
+lag_26_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_26_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_26_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_26_hour_sin,Historical calendar,0.7672591788473954
+lag_26_hour_cos,Historical calendar,0.0
+lag_26_weekday_sin,Historical calendar,0.0
+lag_26_weekday_cos,Historical calendar,0.020930882609406908
+lag_26_year_sin,Historical calendar,0.0
+lag_26_year_cos,Historical calendar,0.0
+lag_26_is_weekend,Historical calendar,0.0
+lag_25_demand_kw,Historical electrical measurements,0.013703400117357021
+lag_25_reactive_power_kvar,Historical electrical measurements,0.0
+lag_25_voltage_v,Historical electrical measurements,0.0
+lag_25_current_a,Historical electrical measurements,0.012465642139129152
+lag_25_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_25_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_25_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_25_hour_sin,Historical calendar,0.0
+lag_25_hour_cos,Historical calendar,0.04488448092921993
+lag_25_weekday_sin,Historical calendar,0.0
+lag_25_weekday_cos,Historical calendar,0.0
+lag_25_year_sin,Historical calendar,0.0
+lag_25_year_cos,Historical calendar,0.028917273318706662
+lag_25_is_weekend,Historical calendar,0.0
+lag_24_demand_kw,Historical electrical measurements,0.0
+lag_24_reactive_power_kvar,Historical electrical measurements,0.0
+lag_24_voltage_v,Historical electrical measurements,0.010442606225765804
+lag_24_current_a,Historical electrical measurements,0.0
+lag_24_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_24_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_24_sub_metering_3_wh_per_minute,Historical electrical measurements,0.017966486228716914
+lag_24_hour_sin,Historical calendar,0.0
+lag_24_hour_cos,Historical calendar,0.0
+lag_24_weekday_sin,Historical calendar,0.0
+lag_24_weekday_cos,Historical calendar,0.0
+lag_24_year_sin,Historical calendar,0.0
+lag_24_year_cos,Historical calendar,0.0633843066189978
+lag_24_is_weekend,Historical calendar,0.0
+lag_23_demand_kw,Historical electrical measurements,0.028203646133967114
+lag_23_reactive_power_kvar,Historical electrical measurements,0.0
+lag_23_voltage_v,Historical electrical measurements,0.013415026093820013
+lag_23_current_a,Historical electrical measurements,0.01652438726751071
+lag_23_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_23_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_23_sub_metering_3_wh_per_minute,Historical electrical measurements,0.015187922438883257
+lag_23_hour_sin,Historical calendar,0.807621606280511
+lag_23_hour_cos,Historical calendar,0.6856192071089913
+lag_23_weekday_sin,Historical calendar,0.0
+lag_23_weekday_cos,Historical calendar,0.04242114983831014
+lag_23_year_sin,Historical calendar,0.0
+lag_23_year_cos,Historical calendar,0.007761700608135086
+lag_23_is_weekend,Historical calendar,0.0
+lag_22_demand_kw,Historical electrical measurements,0.06149925078189772
+lag_22_reactive_power_kvar,Historical electrical measurements,0.0
+lag_22_voltage_v,Historical electrical measurements,0.0
+lag_22_current_a,Historical electrical measurements,0.0
+lag_22_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_22_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_22_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_22_hour_sin,Historical calendar,0.02719811859028717
+lag_22_hour_cos,Historical calendar,0.0385474045461044
+lag_22_weekday_sin,Historical calendar,0.0
+lag_22_weekday_cos,Historical calendar,0.013048604659748893
+lag_22_year_sin,Historical calendar,0.0
+lag_22_year_cos,Historical calendar,0.0
+lag_22_is_weekend,Historical calendar,0.0
+lag_21_demand_kw,Historical electrical measurements,0.02436930201768149
+lag_21_reactive_power_kvar,Historical electrical measurements,0.01342948937293897
+lag_21_voltage_v,Historical electrical measurements,0.0
+lag_21_current_a,Historical electrical measurements,0.011599844915134884
+lag_21_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_21_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_21_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_21_hour_sin,Historical calendar,0.0
+lag_21_hour_cos,Historical calendar,0.3320089706754343
+lag_21_weekday_sin,Historical calendar,0.01661738940328583
+lag_21_weekday_cos,Historical calendar,0.0
+lag_21_year_sin,Historical calendar,0.0
+lag_21_year_cos,Historical calendar,0.02365870226631453
+lag_21_is_weekend,Historical calendar,0.0
+lag_20_demand_kw,Historical electrical measurements,0.01918478205449181
+lag_20_reactive_power_kvar,Historical electrical measurements,0.0
+lag_20_voltage_v,Historical electrical measurements,0.013459902832148629
+lag_20_current_a,Historical electrical measurements,0.015573913335845622
+lag_20_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_20_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_20_sub_metering_3_wh_per_minute,Historical electrical measurements,0.011894729803877888
+lag_20_hour_sin,Historical calendar,0.024278631856305317
+lag_20_hour_cos,Historical calendar,0.0
+lag_20_weekday_sin,Historical calendar,0.0
+lag_20_weekday_cos,Historical calendar,0.016221633059963277
+lag_20_year_sin,Historical calendar,0.027548701871777697
+lag_20_year_cos,Historical calendar,0.012052745028918652
+lag_20_is_weekend,Historical calendar,0.0
+lag_19_demand_kw,Historical electrical measurements,0.050281112450951265
+lag_19_reactive_power_kvar,Historical electrical measurements,0.0
+lag_19_voltage_v,Historical electrical measurements,0.0
+lag_19_current_a,Historical electrical measurements,0.0
+lag_19_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_19_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_19_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0155615831907961
+lag_19_hour_sin,Historical calendar,0.015625350366150197
+lag_19_hour_cos,Historical calendar,0.0
+lag_19_weekday_sin,Historical calendar,0.04896170554906621
+lag_19_weekday_cos,Historical calendar,0.0
+lag_19_year_sin,Historical calendar,0.019260836890627648
+lag_19_year_cos,Historical calendar,0.0
+lag_19_is_weekend,Historical calendar,0.0
+lag_18_demand_kw,Historical electrical measurements,0.027164888555135734
+lag_18_reactive_power_kvar,Historical electrical measurements,0.0
+lag_18_voltage_v,Historical electrical measurements,0.0
+lag_18_current_a,Historical electrical measurements,0.08815987374893765
+lag_18_sub_metering_1_wh_per_minute,Historical electrical measurements,0.008117605450291695
+lag_18_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_18_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_18_hour_sin,Historical calendar,0.10785873434251753
+lag_18_hour_cos,Historical calendar,0.10819166770858041
+lag_18_weekday_sin,Historical calendar,0.0
+lag_18_weekday_cos,Historical calendar,0.027402653325577758
+lag_18_year_sin,Historical calendar,0.0823650447986726
+lag_18_year_cos,Historical calendar,0.0
+lag_18_is_weekend,Historical calendar,0.0
+lag_17_demand_kw,Historical electrical measurements,0.0
+lag_17_reactive_power_kvar,Historical electrical measurements,0.0
+lag_17_voltage_v,Historical electrical measurements,0.020976709185245357
+lag_17_current_a,Historical electrical measurements,0.10567424208975289
+lag_17_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_17_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_17_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_17_hour_sin,Historical calendar,0.0
+lag_17_hour_cos,Historical calendar,0.0
+lag_17_weekday_sin,Historical calendar,0.0
+lag_17_weekday_cos,Historical calendar,0.0
+lag_17_year_sin,Historical calendar,0.03812434350844735
+lag_17_year_cos,Historical calendar,0.022051804208387996
+lag_17_is_weekend,Historical calendar,0.0
+lag_16_demand_kw,Historical electrical measurements,0.03507669073133606
+lag_16_reactive_power_kvar,Historical electrical measurements,0.0
+lag_16_voltage_v,Historical electrical measurements,0.0
+lag_16_current_a,Historical electrical measurements,0.0
+lag_16_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_16_sub_metering_2_wh_per_minute,Historical electrical measurements,0.011429969946126894
+lag_16_sub_metering_3_wh_per_minute,Historical electrical measurements,0.05349993269962274
+lag_16_hour_sin,Historical calendar,0.0
+lag_16_hour_cos,Historical calendar,0.0
+lag_16_weekday_sin,Historical calendar,0.13165152363948238
+lag_16_weekday_cos,Historical calendar,0.0
+lag_16_year_sin,Historical calendar,0.017243042572449543
+lag_16_year_cos,Historical calendar,0.0
+lag_16_is_weekend,Historical calendar,0.0
+lag_15_demand_kw,Historical electrical measurements,0.017291638557009322
+lag_15_reactive_power_kvar,Historical electrical measurements,0.0
+lag_15_voltage_v,Historical electrical measurements,0.015923213187416643
+lag_15_current_a,Historical electrical measurements,0.0839302265500298
+lag_15_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_15_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_15_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_15_hour_sin,Historical calendar,0.0
+lag_15_hour_cos,Historical calendar,0.08637628775081119
+lag_15_weekday_sin,Historical calendar,0.02381549369735956
+lag_15_weekday_cos,Historical calendar,0.0
+lag_15_year_sin,Historical calendar,0.0
+lag_15_year_cos,Historical calendar,0.7762963206945896
+lag_15_is_weekend,Historical calendar,0.0
+lag_14_demand_kw,Historical electrical measurements,0.0
+lag_14_reactive_power_kvar,Historical electrical measurements,0.0
+lag_14_voltage_v,Historical electrical measurements,0.0
+lag_14_current_a,Historical electrical measurements,0.08037770576757472
+lag_14_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_14_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_14_sub_metering_3_wh_per_minute,Historical electrical measurements,0.011960123156368085
+lag_14_hour_sin,Historical calendar,0.0
+lag_14_hour_cos,Historical calendar,0.2999616212915449
+lag_14_weekday_sin,Historical calendar,0.012031955828907344
+lag_14_weekday_cos,Historical calendar,0.0
+lag_14_year_sin,Historical calendar,0.0
+lag_14_year_cos,Historical calendar,0.06696576626331736
+lag_14_is_weekend,Historical calendar,0.0
+lag_13_demand_kw,Historical electrical measurements,0.0
+lag_13_reactive_power_kvar,Historical electrical measurements,0.0066702321500401755
+lag_13_voltage_v,Historical electrical measurements,0.0
+lag_13_current_a,Historical electrical measurements,0.0
+lag_13_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_13_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_13_sub_metering_3_wh_per_minute,Historical electrical measurements,0.020899492832655475
+lag_13_hour_sin,Historical calendar,0.03532076427926108
+lag_13_hour_cos,Historical calendar,0.19133525526857692
+lag_13_weekday_sin,Historical calendar,0.03670034642219283
+lag_13_weekday_cos,Historical calendar,0.0
+lag_13_year_sin,Historical calendar,0.0
+lag_13_year_cos,Historical calendar,0.0
+lag_13_is_weekend,Historical calendar,0.0
+lag_12_demand_kw,Historical electrical measurements,0.0
+lag_12_reactive_power_kvar,Historical electrical measurements,0.0
+lag_12_voltage_v,Historical electrical measurements,0.002653849926868402
+lag_12_current_a,Historical electrical measurements,0.01780946860345686
+lag_12_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_12_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_12_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_12_hour_sin,Historical calendar,0.038128435673871516
+lag_12_hour_cos,Historical calendar,0.0
+lag_12_weekday_sin,Historical calendar,0.06960009475199673
+lag_12_weekday_cos,Historical calendar,0.0
+lag_12_year_sin,Historical calendar,0.022488213011204305
+lag_12_year_cos,Historical calendar,0.027056978985362343
+lag_12_is_weekend,Historical calendar,0.0
+lag_11_demand_kw,Historical electrical measurements,0.0
+lag_11_reactive_power_kvar,Historical electrical measurements,0.0
+lag_11_voltage_v,Historical electrical measurements,0.0
+lag_11_current_a,Historical electrical measurements,0.0821500264296816
+lag_11_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_11_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_11_sub_metering_3_wh_per_minute,Historical electrical measurements,0.017948587909998294
+lag_11_hour_sin,Historical calendar,0.0
+lag_11_hour_cos,Historical calendar,0.6197869203466658
+lag_11_weekday_sin,Historical calendar,0.021189984380900043
+lag_11_weekday_cos,Historical calendar,0.0
+lag_11_year_sin,Historical calendar,0.019378913890608834
+lag_11_year_cos,Historical calendar,0.0
+lag_11_is_weekend,Historical calendar,0.0
+lag_10_demand_kw,Historical electrical measurements,0.13771245700003149
+lag_10_reactive_power_kvar,Historical electrical measurements,0.008047938754904588
+lag_10_voltage_v,Historical electrical measurements,0.0
+lag_10_current_a,Historical electrical measurements,0.041212277590629315
+lag_10_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_10_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_10_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_10_hour_sin,Historical calendar,0.042713664785515276
+lag_10_hour_cos,Historical calendar,0.6373940744734048
+lag_10_weekday_sin,Historical calendar,0.021370637311375642
+lag_10_weekday_cos,Historical calendar,0.029177626373032325
+lag_10_year_sin,Historical calendar,0.048853659399729174
+lag_10_year_cos,Historical calendar,0.26903069573754956
+lag_10_is_weekend,Historical calendar,0.0
+lag_9_demand_kw,Historical electrical measurements,0.018671022391823142
+lag_9_reactive_power_kvar,Historical electrical measurements,0.0
+lag_9_voltage_v,Historical electrical measurements,0.0
+lag_9_current_a,Historical electrical measurements,0.05139712265370018
+lag_9_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_9_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_9_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01575302577042075
+lag_9_hour_sin,Historical calendar,0.05105830001660437
+lag_9_hour_cos,Historical calendar,0.0
+lag_9_weekday_sin,Historical calendar,0.025667994159083145
+lag_9_weekday_cos,Historical calendar,0.0
+lag_9_year_sin,Historical calendar,0.0
+lag_9_year_cos,Historical calendar,0.6082731469701517
+lag_9_is_weekend,Historical calendar,0.0
+lag_8_demand_kw,Historical electrical measurements,0.09021375935319054
+lag_8_reactive_power_kvar,Historical electrical measurements,0.0
+lag_8_voltage_v,Historical electrical measurements,0.0
+lag_8_current_a,Historical electrical measurements,0.06552652988466916
+lag_8_sub_metering_1_wh_per_minute,Historical electrical measurements,0.009692805387157053
+lag_8_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_8_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_8_hour_sin,Historical calendar,0.0
+lag_8_hour_cos,Historical calendar,1.0091636488214009
+lag_8_weekday_sin,Historical calendar,0.05463304097524612
+lag_8_weekday_cos,Historical calendar,0.0
+lag_8_year_sin,Historical calendar,0.0
+lag_8_year_cos,Historical calendar,0.01548346247505815
+lag_8_is_weekend,Historical calendar,0.0
+lag_7_demand_kw,Historical electrical measurements,0.08841914373526855
+lag_7_reactive_power_kvar,Historical electrical measurements,0.0
+lag_7_voltage_v,Historical electrical measurements,0.0
+lag_7_current_a,Historical electrical measurements,0.06019876038149236
+lag_7_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_7_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_7_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01765252297406245
+lag_7_hour_sin,Historical calendar,0.26709611956335233
+lag_7_hour_cos,Historical calendar,0.01575549641913659
+lag_7_weekday_sin,Historical calendar,0.2973689981454391
+lag_7_weekday_cos,Historical calendar,0.0
+lag_7_year_sin,Historical calendar,0.040821740793468744
+lag_7_year_cos,Historical calendar,0.08684073192047145
+lag_7_is_weekend,Historical calendar,0.0
+lag_6_demand_kw,Historical electrical measurements,0.04278845659536436
+lag_6_reactive_power_kvar,Historical electrical measurements,0.008382914476503162
+lag_6_voltage_v,Historical electrical measurements,0.023888567224371764
+lag_6_current_a,Historical electrical measurements,0.07312363463626947
+lag_6_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_6_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_6_sub_metering_3_wh_per_minute,Historical electrical measurements,0.06150532357960089
+lag_6_hour_sin,Historical calendar,0.1564598968557867
+lag_6_hour_cos,Historical calendar,0.011177005066054829
+lag_6_weekday_sin,Historical calendar,0.028885446940952988
+lag_6_weekday_cos,Historical calendar,0.015370112318485275
+lag_6_year_sin,Historical calendar,0.0
+lag_6_year_cos,Historical calendar,0.4032813855072416
+lag_6_is_weekend,Historical calendar,0.0
+lag_5_demand_kw,Historical electrical measurements,0.03393500472998463
+lag_5_reactive_power_kvar,Historical electrical measurements,0.0
+lag_5_voltage_v,Historical electrical measurements,0.0
+lag_5_current_a,Historical electrical measurements,0.07593051799838527
+lag_5_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_5_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_5_sub_metering_3_wh_per_minute,Historical electrical measurements,0.01712389838396536
+lag_5_hour_sin,Historical calendar,0.3780973531739729
+lag_5_hour_cos,Historical calendar,0.0
+lag_5_weekday_sin,Historical calendar,0.0
+lag_5_weekday_cos,Historical calendar,0.0
+lag_5_year_sin,Historical calendar,0.026862737700261645
+lag_5_year_cos,Historical calendar,0.020282278164915665
+lag_5_is_weekend,Historical calendar,0.0
+lag_4_demand_kw,Historical electrical measurements,0.05846103564079896
+lag_4_reactive_power_kvar,Historical electrical measurements,0.0
+lag_4_voltage_v,Historical electrical measurements,0.0
+lag_4_current_a,Historical electrical measurements,0.1340880398460225
+lag_4_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_4_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_4_sub_metering_3_wh_per_minute,Historical electrical measurements,0.025106322931199104
+lag_4_hour_sin,Historical calendar,0.0
+lag_4_hour_cos,Historical calendar,0.07921013427250248
+lag_4_weekday_sin,Historical calendar,0.047048279666048506
+lag_4_weekday_cos,Historical calendar,0.0
+lag_4_year_sin,Historical calendar,0.0
+lag_4_year_cos,Historical calendar,0.4168865893378459
+lag_4_is_weekend,Historical calendar,0.0
+lag_3_demand_kw,Historical electrical measurements,0.15972744292376123
+lag_3_reactive_power_kvar,Historical electrical measurements,0.0
+lag_3_voltage_v,Historical electrical measurements,0.013675997048857127
+lag_3_current_a,Historical electrical measurements,0.17119213384880363
+lag_3_sub_metering_1_wh_per_minute,Historical electrical measurements,0.0
+lag_3_sub_metering_2_wh_per_minute,Historical electrical measurements,0.0
+lag_3_sub_metering_3_wh_per_minute,Historical electrical measurements,0.0
+lag_3_hour_sin,Historical calendar,0.0
+lag_3_hour_cos,Historical calendar,0.052341977135708546
+lag_3_weekday_sin,Historical calendar,0.09773796738605159
+lag_3_weekday_cos,Historical calendar,0.0
+lag_3_year_sin,Historical calendar,0.0
+lag_3_year_cos,Historical calendar,0.0764273324859724
+lag_3_is_weekend,Historical calendar,0.0705053808101947
+lag_2_demand_kw,Historical electrical measurements,0.04333252493652995
+lag_2_reactive_power_kvar,Historical electrical measurements,0.0
+lag_2_voltage_v,Historical electrical measurements,0.017021834228548104
+lag_2_current_a,Historical electrical measurements,0.07030287965204114
+lag_2_sub_metering_1_wh_per_minute,Historical electrical measurements,0.007810586668745737
+lag_2_sub_metering_2_wh_per_minute,Historical electrical measurements,0.01112430926894793
+lag_2_sub_metering_3_wh_per_minute,Historical electrical measurements,0.10668138414337819
+lag_2_hour_sin,Historical calendar,0.0
+lag_2_hour_cos,Historical calendar,0.367080695950244
+lag_2_weekday_sin,Historical calendar,0.0
+lag_2_weekday_cos,Historical calendar,0.0
+lag_2_year_sin,Historical calendar,0.02488380473674619
+lag_2_year_cos,Historical calendar,0.014559859022670589
+lag_2_is_weekend,Historical calendar,0.0
+lag_1_demand_kw,Historical electrical measurements,1.310498431545828
+lag_1_reactive_power_kvar,Historical electrical measurements,0.12835743692836532
+lag_1_voltage_v,Historical electrical measurements,0.049976185744709405
+lag_1_current_a,Historical electrical measurements,3.2033976681478054
+lag_1_sub_metering_1_wh_per_minute,Historical electrical measurements,0.01266521926332208
+lag_1_sub_metering_2_wh_per_minute,Historical electrical measurements,0.1766600587617377
+lag_1_sub_metering_3_wh_per_minute,Historical electrical measurements,0.21200228791235146
+lag_1_hour_sin,Historical calendar,1.0234424660839834
+lag_1_hour_cos,Historical calendar,0.04096820168744336
+lag_1_weekday_sin,Historical calendar,0.14987370881829537
+lag_1_weekday_cos,Historical calendar,0.0
+lag_1_year_sin,Historical calendar,0.018772943452772896
+lag_1_year_cos,Historical calendar,0.04058215088781415
+lag_1_is_weekend,Historical calendar,0.0
+horizon_1_hour_sin,Future-known calendar,0.0
+horizon_1_hour_cos,Future-known calendar,0.02063151398375531
+horizon_1_weekday_sin,Future-known calendar,0.01891501661144045
+horizon_1_weekday_cos,Future-known calendar,0.0
+horizon_1_year_sin,Future-known calendar,0.0
+horizon_1_year_cos,Future-known calendar,0.047029595776616896
+horizon_1_is_weekend,Future-known calendar,0.0
+horizon_2_hour_sin,Future-known calendar,0.0
+horizon_2_hour_cos,Future-known calendar,0.0
+horizon_2_weekday_sin,Future-known calendar,0.05324248474193957
+horizon_2_weekday_cos,Future-known calendar,0.0
+horizon_2_year_sin,Future-known calendar,0.0
+horizon_2_year_cos,Future-known calendar,0.05035106586009546
+horizon_2_is_weekend,Future-known calendar,0.033417142673926994
+horizon_3_hour_sin,Future-known calendar,0.43012102253965256
+horizon_3_hour_cos,Future-known calendar,0.11223672759386091
+horizon_3_weekday_sin,Future-known calendar,0.01055519990043534
+horizon_3_weekday_cos,Future-known calendar,0.0
+horizon_3_year_sin,Future-known calendar,0.0
+horizon_3_year_cos,Future-known calendar,0.031210251894829632
+horizon_3_is_weekend,Future-known calendar,0.0
+horizon_4_hour_sin,Future-known calendar,0.42991941924702165
+horizon_4_hour_cos,Future-known calendar,0.0
+horizon_4_weekday_sin,Future-known calendar,0.02936965881732307
+horizon_4_weekday_cos,Future-known calendar,0.0
+horizon_4_year_sin,Future-known calendar,0.0
+horizon_4_year_cos,Future-known calendar,0.05482704425142809
+horizon_4_is_weekend,Future-known calendar,0.014931374382525142
+horizon_5_hour_sin,Future-known calendar,0.5123197066930241
+horizon_5_hour_cos,Future-known calendar,0.5807667033785913
+horizon_5_weekday_sin,Future-known calendar,0.22883036949635363
+horizon_5_weekday_cos,Future-known calendar,0.0
+horizon_5_year_sin,Future-known calendar,0.0139761767569345
+horizon_5_year_cos,Future-known calendar,0.026342030814451703
+horizon_5_is_weekend,Future-known calendar,0.0
+horizon_6_hour_sin,Future-known calendar,0.21578951186601117
+horizon_6_hour_cos,Future-known calendar,0.03217585398994905
+horizon_6_weekday_sin,Future-known calendar,0.015422816561081808
+horizon_6_weekday_cos,Future-known calendar,0.01960058547335418
+horizon_6_year_sin,Future-known calendar,0.0
+horizon_6_year_cos,Future-known calendar,0.03853807376637359
+horizon_6_is_weekend,Future-known calendar,0.0
+horizon_7_hour_sin,Future-known calendar,0.0
+horizon_7_hour_cos,Future-known calendar,0.0
+horizon_7_weekday_sin,Future-known calendar,0.05044251171445956
+horizon_7_weekday_cos,Future-known calendar,0.0
+horizon_7_year_sin,Future-known calendar,0.05090251191097337
+horizon_7_year_cos,Future-known calendar,0.04394147510299493
+horizon_7_is_weekend,Future-known calendar,0.0
+horizon_8_hour_sin,Future-known calendar,0.0
+horizon_8_hour_cos,Future-known calendar,0.2462401900521047
+horizon_8_weekday_sin,Future-known calendar,0.0
+horizon_8_weekday_cos,Future-known calendar,0.0
+horizon_8_year_sin,Future-known calendar,0.0
+horizon_8_year_cos,Future-known calendar,0.0
+horizon_8_is_weekend,Future-known calendar,0.0
+horizon_9_hour_sin,Future-known calendar,0.025020105937467747
+horizon_9_hour_cos,Future-known calendar,0.6706887180035531
+horizon_9_weekday_sin,Future-known calendar,0.0
+horizon_9_weekday_cos,Future-known calendar,0.0
+horizon_9_year_sin,Future-known calendar,0.0
+horizon_9_year_cos,Future-known calendar,0.013335586561419708
+horizon_9_is_weekend,Future-known calendar,0.03369237115759193
+horizon_10_hour_sin,Future-known calendar,0.0
+horizon_10_hour_cos,Future-known calendar,0.0
+horizon_10_weekday_sin,Future-known calendar,0.020306487949907488
+horizon_10_weekday_cos,Future-known calendar,0.0
+horizon_10_year_sin,Future-known calendar,0.0
+horizon_10_year_cos,Future-known calendar,0.057652736624103196
+horizon_10_is_weekend,Future-known calendar,0.0
+horizon_11_hour_sin,Future-known calendar,0.0
+horizon_11_hour_cos,Future-known calendar,0.0
+horizon_11_weekday_sin,Future-known calendar,0.09414046539292935
+horizon_11_weekday_cos,Future-known calendar,0.0
+horizon_11_year_sin,Future-known calendar,0.0
+horizon_11_year_cos,Future-known calendar,0.03751373069336198
+horizon_11_is_weekend,Future-known calendar,0.0
+horizon_12_hour_sin,Future-known calendar,0.04101573845008219
+horizon_12_hour_cos,Future-known calendar,0.008076133370492037
+horizon_12_weekday_sin,Future-known calendar,0.04578682142751944
+horizon_12_weekday_cos,Future-known calendar,0.0332921279595813
+horizon_12_year_sin,Future-known calendar,0.0
+horizon_12_year_cos,Future-known calendar,0.039926733249888234
+horizon_12_is_weekend,Future-known calendar,0.0
+horizon_13_hour_sin,Future-known calendar,0.0
+horizon_13_hour_cos,Future-known calendar,0.09963593412519806
+horizon_13_weekday_sin,Future-known calendar,0.0
+horizon_13_weekday_cos,Future-known calendar,0.0
+horizon_13_year_sin,Future-known calendar,0.0
+horizon_13_year_cos,Future-known calendar,0.06726919813029153
+horizon_13_is_weekend,Future-known calendar,0.0
+horizon_14_hour_sin,Future-known calendar,0.018060150458457176
+horizon_14_hour_cos,Future-known calendar,0.018159466735271686
+horizon_14_weekday_sin,Future-known calendar,0.0
+horizon_14_weekday_cos,Future-known calendar,0.0
+horizon_14_year_sin,Future-known calendar,0.05028721838256018
+horizon_14_year_cos,Future-known calendar,0.015285976542392218
+horizon_14_is_weekend,Future-known calendar,0.0
+horizon_15_hour_sin,Future-known calendar,0.030800827034965464
+horizon_15_hour_cos,Future-known calendar,0.0
+horizon_15_weekday_sin,Future-known calendar,0.0
+horizon_15_weekday_cos,Future-known calendar,0.0
+horizon_15_year_sin,Future-known calendar,0.0
+horizon_15_year_cos,Future-known calendar,0.027047397297600664
+horizon_15_is_weekend,Future-known calendar,0.22619607168641884
+horizon_16_hour_sin,Future-known calendar,0.018359785306272837
+horizon_16_hour_cos,Future-known calendar,0.019727506614615187
+horizon_16_weekday_sin,Future-known calendar,0.029191914081034727
+horizon_16_weekday_cos,Future-known calendar,0.0
+horizon_16_year_sin,Future-known calendar,0.0336208239853467
+horizon_16_year_cos,Future-known calendar,0.035155049342303804
+horizon_16_is_weekend,Future-known calendar,0.0
+horizon_17_hour_sin,Future-known calendar,0.2128142431046813
+horizon_17_hour_cos,Future-known calendar,0.6294639219657981
+horizon_17_weekday_sin,Future-known calendar,0.3137465158640473
+horizon_17_weekday_cos,Future-known calendar,0.0
+horizon_17_year_sin,Future-known calendar,0.0
+horizon_17_year_cos,Future-known calendar,0.8520404331355708
+horizon_17_is_weekend,Future-known calendar,0.0
+horizon_18_hour_sin,Future-known calendar,0.0
+horizon_18_hour_cos,Future-known calendar,0.017172363047255848
+horizon_18_weekday_sin,Future-known calendar,0.0532814109890134
+horizon_18_weekday_cos,Future-known calendar,0.0
+horizon_18_year_sin,Future-known calendar,0.03041003665662086
+horizon_18_year_cos,Future-known calendar,0.051491607733898034
+horizon_18_is_weekend,Future-known calendar,0.0
+horizon_19_hour_sin,Future-known calendar,0.0
+horizon_19_hour_cos,Future-known calendar,0.0
+horizon_19_weekday_sin,Future-known calendar,0.06863785537061533
+horizon_19_weekday_cos,Future-known calendar,0.0
+horizon_19_year_sin,Future-known calendar,0.037875500085331755
+horizon_19_year_cos,Future-known calendar,0.09051800382794124
+horizon_19_is_weekend,Future-known calendar,0.0
+horizon_20_hour_sin,Future-known calendar,0.4225208346066436
+horizon_20_hour_cos,Future-known calendar,0.2833873150061781
+horizon_20_weekday_sin,Future-known calendar,0.0
+horizon_20_weekday_cos,Future-known calendar,0.0
+horizon_20_year_sin,Future-known calendar,0.0
+horizon_20_year_cos,Future-known calendar,1.4935234963595745
+horizon_20_is_weekend,Future-known calendar,0.019011575001651623
+horizon_21_hour_sin,Future-known calendar,0.021988976539141288
+horizon_21_hour_cos,Future-known calendar,0.3032723072800579
+horizon_21_weekday_sin,Future-known calendar,0.0
+horizon_21_weekday_cos,Future-known calendar,0.0
+horizon_21_year_sin,Future-known calendar,0.03885646621526116
+horizon_21_year_cos,Future-known calendar,0.0
+horizon_21_is_weekend,Future-known calendar,0.0
+horizon_22_hour_sin,Future-known calendar,0.7258890606629725
+horizon_22_hour_cos,Future-known calendar,0.011508368508635118
+horizon_22_weekday_sin,Future-known calendar,0.0
+horizon_22_weekday_cos,Future-known calendar,0.0
+horizon_22_year_sin,Future-known calendar,0.014655984700451907
+horizon_22_year_cos,Future-known calendar,0.019916371088856848
+horizon_22_is_weekend,Future-known calendar,0.0
+horizon_23_hour_sin,Future-known calendar,0.1396839888985781
+horizon_23_hour_cos,Future-known calendar,0.721688878271549
+horizon_23_weekday_sin,Future-known calendar,0.011728353143363134
+horizon_23_weekday_cos,Future-known calendar,0.0
+horizon_23_year_sin,Future-known calendar,0.0
+horizon_23_year_cos,Future-known calendar,0.3744013260615646
+horizon_23_is_weekend,Future-known calendar,0.0
+horizon_24_hour_sin,Future-known calendar,0.0
+horizon_24_hour_cos,Future-known calendar,0.13996896594551014
+horizon_24_weekday_sin,Future-known calendar,0.0
+horizon_24_weekday_cos,Future-known calendar,0.020402607476215688
+horizon_24_year_sin,Future-known calendar,0.0
+horizon_24_year_cos,Future-known calendar,0.06445839747440436
+horizon_24_is_weekend,Future-known calendar,0.011546237150098252
+demand_mean_24h,Demand summaries,2.3859290343065114
+demand_std_24h,Demand summaries,0.8902076236635861
+demand_min_24h,Demand summaries,0.29677640165249286
+demand_max_24h,Demand summaries,0.8650899617730377
+demand_mean_168h,Demand summaries,2.7150795995703603
+demand_std_168h,Demand summaries,0.7137548090749692
+demand_min_168h,Demand summaries,0.030406156219099364
+demand_max_168h,Demand summaries,0.6368144990092796

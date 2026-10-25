@@ -1,0 +1,3 @@
+model,kind,test_rmse_kw,observed_rmse_kw,test_mae_kw,parameters,epochs_run,best_epoch,validation_rmse_kw,device,trees
+CatBoost (demand only),Learned,0.5859455613737014,0.5939039582926644,0.43109519301229776,,300,300,0.6851791673324461,cpu,300
+CatBoost,Learned,0.565598515987764,0.5698985514524262,0.4112744470700617,,300,285,0.6630482347784515,cpu,285

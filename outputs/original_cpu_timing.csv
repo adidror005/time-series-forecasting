@@ -1,0 +1,10 @@
+model,fit_wall_seconds,epochs_run,device,cpu_threads,hardware_details
+LSTM,94.74817176800002,15,cpu,4,not recorded in original run
+GRU,189.64897075599995,15,cpu,4,not recorded in original run
+N-BEATS-style,5.6578606079999645,5,cpu,4,not recorded in original run
+MLP,2.38328409799999,6,cpu,4,not recorded in original run
+Linear,3.015502740999977,13,cpu,4,not recorded in original run
+Patch Transformer,32.004502452999986,10,cpu,4,not recorded in original run
+Transformer,591.4045303110001,10,cpu,4,not recorded in original run
+TCN,79.36977334899984,12,cpu,4,not recorded in original run
+CNN1D,56.50057386100002,15,cpu,4,not recorded in original run

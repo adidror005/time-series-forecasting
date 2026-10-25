@@ -1,0 +1,17 @@
+# Local environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+catboost_info/
+.DS_Store
+__MACOSX/
+.env
+.env.*
+!.env.example
+
+# Optional machine-specific timing reports
+outputs*/local_timing.csv
+outputs*/local_timing_metadata.json

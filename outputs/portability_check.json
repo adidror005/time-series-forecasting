@@ -1,0 +1,14 @@
+{
+  "tested_device": "cpu",
+  "models_smoke_tested": 9,
+  "configured_backends": [
+    "cpu",
+    "cuda / rocm",
+    "mps",
+    "xpu",
+    "tpu",
+    "xla"
+  ],
+  "accelerator_hardware_tested": [],
+  "note": "Saved benchmark predictions are unchanged; portability update checked separately."
+}

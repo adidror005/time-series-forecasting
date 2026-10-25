@@ -1,0 +1,159 @@
+{
+  "notebook_code_cells": 15,
+  "all_cells_executed": true,
+  "all_saved_scores_recomputed": true,
+  "target_values_and_origins_identical_to_original": true,
+  "model_scores": [
+    {
+      "model": "CatBoost",
+      "test_rmse_kw": 0.565598515987764,
+      "test_mae_kw": 0.4112744470700617,
+      "observed_rmse_kw": 0.5698985514524262
+    },
+    {
+      "model": "TCN",
+      "test_rmse_kw": 0.5782278354035172,
+      "test_mae_kw": 0.4240670758477557,
+      "observed_rmse_kw": 0.5821276750702197
+    },
+    {
+      "model": "GRU",
+      "test_rmse_kw": 0.5837033547525141,
+      "test_mae_kw": 0.42663083491434317,
+      "observed_rmse_kw": 0.5857418797621684
+    },
+    {
+      "model": "MLP",
+      "test_rmse_kw": 0.5849299450542814,
+      "test_mae_kw": 0.43205639856887,
+      "observed_rmse_kw": 0.589206350247159
+    },
+    {
+      "model": "CatBoost (demand only)",
+      "test_rmse_kw": 0.5859455613737014,
+      "test_mae_kw": 0.43109519301229776,
+      "observed_rmse_kw": 0.5939039582926644
+    },
+    {
+      "model": "LSTM",
+      "test_rmse_kw": 0.5900341550733922,
+      "test_mae_kw": 0.4359893731346642,
+      "observed_rmse_kw": 0.5912067148075768
+    },
+    {
+      "model": "N-BEATS-style",
+      "test_rmse_kw": 0.5906733902721351,
+      "test_mae_kw": 0.43441062057849095,
+      "observed_rmse_kw": 0.5942680635862742
+    },
+    {
+      "model": "Linear",
+      "test_rmse_kw": 0.6017310850834144,
+      "test_mae_kw": 0.4490664342975858,
+      "observed_rmse_kw": 0.6041976795782317
+    },
+    {
+      "model": "Patch Transformer",
+      "test_rmse_kw": 0.605300147896762,
+      "test_mae_kw": 0.45712800560907074,
+      "observed_rmse_kw": 0.605271662061695
+    },
+    {
+      "model": "Transformer",
+      "test_rmse_kw": 0.6230710292363567,
+      "test_mae_kw": 0.46777739449216704,
+      "observed_rmse_kw": 0.6254139288639264
+    },
+    {
+      "model": "CNN1D",
+      "test_rmse_kw": 0.6635724181691606,
+      "test_mae_kw": 0.5184907163303621,
+      "observed_rmse_kw": 0.6689324465654072
+    },
+    {
+      "model": "Yesterday",
+      "test_rmse_kw": 0.7496307185317562,
+      "test_mae_kw": 0.4970796310678152,
+      "observed_rmse_kw": 0.7617918482908115
+    },
+    {
+      "model": "Last week",
+      "test_rmse_kw": 0.8025335565691935,
+      "test_mae_kw": 0.561394518722811,
+      "observed_rmse_kw": 0.8061394287486349
+    },
+    {
+      "model": "Last observed value",
+      "test_rmse_kw": 0.9178634627753136,
+      "test_mae_kw": 0.6575199220588729,
+      "observed_rmse_kw": 0.9353846712694279
+    }
+  ],
+  "contracts": {
+    "target_values_identical": true,
+    "test_origins_identical": true,
+    "observed_target_mask_identical": true,
+    "architecture_checks": [
+      {
+        "model": "Linear",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "MLP",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "CNN1D",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "TCN",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "GRU",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "LSTM",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "Transformer",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "Patch Transformer",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      },
+      {
+        "model": "N-BEATS-style",
+        "demand_mode_matches_original": true,
+        "max_absolute_difference": 0.0
+      }
+    ]
+  },
+  "options": [
+    {
+      "report_timing": false,
+      "nine_neural_fits": "passed",
+      "two_catboost_fits": "passed"
+    },
+    {
+      "report_timing": true,
+      "nine_neural_fits": "passed",
+      "two_catboost_fits": "passed"
+    },
+    {
+      "demand_mode_nine_neural_fits": "passed"
+    }
+  ]
+}
