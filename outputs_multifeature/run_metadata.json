@@ -1,6 +1,6 @@
 {
-  "started_utc": "2026-10-25T10:26:25.561015+00:00",
-  "completed_utc": "2026-10-25T10:46:40.351837+00:00",
+  "started_utc": "2026-10-26T06:45:39.183717+00:00",
+  "completed_utc": "2026-10-26T08:46:31.625337+00:00",
   "feature_set": "all",
   "seed": 42,
   "lookback": 168,
@@ -24,28 +24,28 @@
     "Transformer"
   ],
   "environment": {
-    "python": "3.12.14",
-    "numpy": "2.3.5",
-    "pandas": "2.2.3",
-    "torch": "2.5.1+cpu",
-    "matplotlib": "3.10.8",
-    "device": "cpu",
+    "python": "3.13.9",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "torch": "2.12.0",
+    "matplotlib": "3.11.1",
+    "device": "mps",
     "cpu_threads": 4,
     "requested_device": "auto",
     "hip_version": null
   },
   "hardware": {
-    "operating_system": "Linux",
-    "os_version": "6.18.55",
-    "architecture": "x86_64",
-    "processor": "x86_64",
-    "device": "cpu",
-    "accelerator": "CPU",
-    "torch_version": "2.5.1+cpu",
+    "operating_system": "macOS",
+    "os_version": "15.4.1",
+    "architecture": "arm64",
+    "processor": "Apple M4 Pro",
+    "device": "mps",
+    "accelerator": "Apple Metal / Apple M4 Pro",
+    "torch_version": "2.12.0",
     "cpu_threads": 4,
     "dtype": "float32",
     "batch_size": 256,
-    "mps_cpu_fallback_enabled": false
+    "mps_cpu_fallback_enabled": true
   },
   "report_timing": false,
   "data": {
@@ -281,7 +281,7 @@
   "original_run_started_utc": "2026-10-25T08:18:46.715821+00:00",
   "catboost": {
     "enabled": true,
-    "version": "1.2.10",
+    "version": "1.2.8",
     "task_type": "CPU",
     "iterations": 300,
     "depth": 6,
