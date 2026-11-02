@@ -1,0 +1,23 @@
+{
+  "dataset": "tourism_monthly",
+  "source": "https://zenodo.org/api/records/4656096/files/tourism_monthly_dataset.zip/content",
+  "num_series": 366,
+  "seed": 42,
+  "lookback": 18,
+  "horizon": 24,
+  "validation_block_months": 24,
+  "test_block_months": 24,
+  "max_epochs": 50,
+  "patience": 8,
+  "catboost_iterations": 400,
+  "catboost_patience": 60,
+  "train_windows": 30000,
+  "neural_models": [
+    "MLP",
+    "GRU",
+    "LSTM",
+    "TCN",
+    "Patch Transformer"
+  ],
+  "notes": "Separate global panel experiment, not identical to published Transformer/CatBoost setup or single-series suite."
+}

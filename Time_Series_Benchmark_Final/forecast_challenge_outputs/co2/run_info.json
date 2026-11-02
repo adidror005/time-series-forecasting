@@ -1,0 +1,33 @@
+{
+  "dataset": "co2",
+  "target": "co2",
+  "unit": "ppm",
+  "lookback": 156,
+  "horizon": 13,
+  "seed": 42,
+  "max_epochs": 30,
+  "patience": 7,
+  "catboost_iterations": 300,
+  "catboost_patience": 50,
+  "neural_models": [
+    "Linear",
+    "MLP",
+    "CNN1D",
+    "GRU",
+    "LSTM",
+    "TCN",
+    "N-BEATS-style",
+    "Patch Transformer"
+  ],
+  "engineered_catboost": true,
+  "neural_engineered_features": false,
+  "train_origins": 1430,
+  "val_origins": 331,
+  "test_origins": 331,
+  "data_start": "1958-03-29 00:00:00",
+  "data_end": "2001-12-29 00:00:00",
+  "train_end": "1988-11-12 00:00:00",
+  "validation_end": "1995-06-10 00:00:00",
+  "source_url": "statsmodels.datasets.co2.load_pandas()",
+  "notes": "Single chronological split and seed. No tuning on held-out test. All models share same forecast origins."
+}
