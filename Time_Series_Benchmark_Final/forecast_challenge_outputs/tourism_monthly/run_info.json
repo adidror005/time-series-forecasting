@@ -17,7 +17,8 @@
     "GRU",
     "LSTM",
     "TCN",
-    "Patch Transformer"
+    "Patch Transformer",
+    "N-BEATS"
   ],
   "notes": "Separate global panel experiment, not identical to published Transformer/CatBoost setup or single-series suite."
 }
